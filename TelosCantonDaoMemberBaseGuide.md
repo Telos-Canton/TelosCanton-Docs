@@ -21,7 +21,7 @@ Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自
 
 ## 3. 协作工具
 ### 3.1. G Suit（文件共享）
-​     ・科学上网：推荐Chrome浏览器配合Shadowsocks，具体方法请索取“Chrome科学上网_解压密码123.zip”
+​     ・科学上网：推荐 Shadowsocks（https://shadowsocks.org/en/download/clients.html），Android 推荐 Shadowsocks 官网下载.apk安装文件，iOS 推荐 Apple Store 安装 Outline，桌面端推荐 Chrome+Proxy SwitchyOmega 插件，具体方法请索取“Chrome科学上网_解压密码123.zip”。
 ​     ・手机 App：应用市场搜索“Gmail”和“Google Drive”安装
 ​     ・网页版：Gmail（[https://mail.google.com](https://mail.google.com)）和 Google Drive（[https://drive.google.com](https://drive.google.com)）
 
@@ -51,7 +51,7 @@ Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自
 ​     ・客户端：https://zoom.us/download
 
 ## 4. 账户信息
-4.1. Google（员工或自治成员代表可获得@teloscanton.io的Gmail邮箱）：账户为@teloscanton.io，密码为
+4.1. G Suit（员工或自治成员代表可获得@teloscanton.io的Gmail邮箱）：账户为@teloscanton.io，密码为
 4.2. Slack：登陆邮箱为@teloscanton.io，密码为
 4.3. Github：如果已经有Github账户，请为账户邮箱添加@teloscanton.io；如果还没有Github账户，请使用@teloscanton.io注册
 4.4. Trello：通过Google账户@teloscanton.io登陆
@@ -67,6 +67,7 @@ Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自
 ### 5.2. 创建和处理任务
 a. 在 Trello 新建任务卡片，按完成情况改变卡片状态；
 b. 在 Slack 实时沟通任务内容。
+
 ### 5.3. 翻译任务
 a. 在 Trello 新建翻译任务卡片；
 b. 使用 Typora 或同类工具制作待翻译内容的 Markdown 格式文档；
@@ -89,4 +90,4 @@ b. 亲身或让其他 Telos Canton 成员在 Slack 群里再向 Rob Konsdorf 提
 希望你能在 Telos Canton Dao 遇到志同道合的有趣灵魂，通过这个平台实现自己的价值和目标！
 
 ## 附录：
-Telos Canton Dao 成员基础指南模板：
+Telos Canton Dao 成员基础指南模板：[https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md)
