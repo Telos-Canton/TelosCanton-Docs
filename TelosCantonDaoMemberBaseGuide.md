@@ -4,16 +4,27 @@
 
 ## 1. 基础知识
 首先，有几件你必须知道的事：
+
 a. Telos Canton 是以自治组织形式管理的 DPos 公链节点；
+
 b. Telos Canton 是以财务公开为基本守则的 DPos 公链节点；
+
 c. Telos Canton 是 Telos 公链[^3]的侯选节点；
+
 d. Telos Canton 是第一个正式加入 Telos 的中国节点[^4]；
+
 e. Telos Canton 是 Telos 主网启动组成员；
+
 f. Telos Canton 是 Telos 基金会的合作伙伴。
+
 了解更多：[https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)
+
 另外，希望你从心底认同 Telos Canton 坚守的理念：
+
 a. **公平、公正、公平**的原则；
+
 b. 通过**去中心化**达至**平衡**的治理方式；
+
 c. 追求思想及文化**多元性的融合**。
 
 ## 2. 成员分类
