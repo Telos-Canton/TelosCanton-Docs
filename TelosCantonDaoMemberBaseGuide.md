@@ -1,13 +1,13 @@
-# (英文名姓+空格+中文姓名)的 Telos Canton Dao 成员基础指南
+# Telos Canton Dao 成员基础指南[^1]
 
-欢迎你作为全职员工/兼职员工/自治成员加入 Telos Canton Dao！
+欢迎你作为全职员工/兼职员工/自治成员加入 Telos Canton[^2] Dao！
 
 ## 1. 基础知识
 首先，有几件你必须知道的事：
-a. Telos Canton 是以自治组织形式治理的 DPos 公链节点；
+a. Telos Canton 是以自治组织形式管理的 DPos 公链节点；
 b. Telos Canton 是以财务公开为基本守则的 DPos 公链节点；
-c. Telos Canton 是 Telos 公链的侯选节点；
-d. Telos Canton 是第一个正式加入 Telos 的中国节点；
+c. Telos Canton 是 Telos 公链[^3]的侯选节点；
+d. Telos Canton 是第一个正式加入 Telos 的中国节点[^4]；
 e. Telos Canton 是 Telos 主网启动组成员；
 f. Telos Canton 是 Telos 基金会的合作伙伴。
 了解更多：[https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)
@@ -21,7 +21,7 @@ Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自
 
 ## 3. 协作工具
 ### 3.1. G Suit（文件共享）
-​     ・科学上网：推荐 Shadowsocks（https://shadowsocks.org/en/download/clients.html），Android 推荐 Shadowsocks 官网下载.apk安装文件，iOS 推荐 Apple Store 安装 Outline，桌面端推荐 Chrome+Proxy SwitchyOmega 插件，具体方法请索取“Chrome科学上网_解压密码123.zip”。
+​     ・科学上网：推荐 Shadowsocks（https://shadowsocks.org/en/download/clients.html），Android 推荐 Shadowsocks 官网下载.apk安装文件，iOS 推荐 Apple Store 安装 Outline，桌面端推荐 Chrome+Proxy SwitchyOmega 插件，具体方法请索取“科学上网_本文件解压密码是123.zip”。
 ​     ・手机 App：应用市场搜索“Gmail”和“Google Drive”安装
 ​     ・网页版：Gmail（[https://mail.google.com](https://mail.google.com)）和 Google Drive（[https://drive.google.com](https://drive.google.com)）
 
@@ -91,3 +91,8 @@ b. 亲身或让其他 Telos Canton 成员在 Slack 群里再向 Rob Konsdorf 提
 
 ## 附录：
 Telos Canton Dao 成员基础指南模板：[https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md)
+
+[^1]: 发送给成员的邮件标题在此文标题前加上：英文名姓+空格+中文姓名+“的”+空格
+[^2]: “橡果”是“Telos”的中文昵称，因此 Telos Canton 的中文名称为“橡果·广州”。
+[^3]: 按目前Telos白皮书内容，Telos 项目的正式英文名称为“Telos Network”，直译应为“Telos网络”，这里为符合中国国内的习惯称谓，将其称作“Telos 公链”。
+[^4]: 橡果·广州于2018年7月26日加入Telos测试网络，正式成为Telos的候选节点。
