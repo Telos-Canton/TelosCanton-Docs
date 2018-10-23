@@ -61,8 +61,8 @@ Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自
 
 ## 5. 工作流程
 ### 5.1. 提问及答疑
-**a. 节点服务器运维**：微信群“**Telos主网启动华语组**”（联系组内成员申请加入）、Telegram群“**Telos Testnet**”（https://t.me/TelosTestnet）和Slack群“**Telos Network**”的 **#network-maintenance** 频道（https://telos-network.slack.com/messages/CBYH4329K）
-**b. 中英文翻译**：微信群“**Telos主网启动华语组**”和Slack群“**Telos Network**”的 **#translation** 频道（https://telos-network.slack.com/messages/CBYD1KN02）
+**a. 节点服务器运维**：微信群“**Telos主网启动华语组**”（联系组内成员申请加入）、Telegram群“**Telos Testnet**”（https://t.me/TelosTestnet）和Slack群“**Telos Network**”的 **#network-maintenance** 频道（https://telos-network.slack.com/messages/CBYH4329K）  
+**b. 中英文翻译**：微信群“**Telos主网启动华语组**”和Slack群“**Telos Network**”的 **#translation** 频道（https://telos-network.slack.com/messages/CBYD1KN02）  
 **c. 综合和治理**：微信群“**Telos中文群**”（联系组内成员申请加入）、Telegram群“**The Telos Foundation**”（https://t.me/HelloTelos）和“**橡果（Telos）官方中文群**”（https://t.me/Telos_CN）
 
 ### 5.2. 创建和处理任务
@@ -96,7 +96,7 @@ b. 亲身或让其他 Telos Canton 成员在 Slack 群里再向 Rob Konsdorf 提
 Telos Canton Dao 成员基础指南模板：[https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md)
 
 ## 注释：
-[^1]: 发送给成员的邮件标题在此文标题前加上：英文名姓+空格+中文姓名+“的”+空格   
+[^1]: 发送给成员的邮件标题在此文标题前加上：英文名姓+空格+中文姓名+“的”+空格  
 [^2]: “橡果”是“Telos”的中文昵称，因此 Telos Canton 的中文名称为“橡果·广州”。  
 [^3]: 按目前Telos白皮书内容，Telos 项目的正式英文名称为“Telos Network”，直译应为“Telos网络”，这里为符合中国国内的习惯称谓，将其称作“Telos 公链”。  
 [^4]: 橡果·广州于2018年7月26日加入Telos测试网络，正式成为Telos的候选节点。
