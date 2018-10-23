@@ -17,7 +17,7 @@ b. 通过**去中心化**达至**平衡**的治理方式；
 c. 追求思想及文化**多元性的融合**。
 
 ## 2. 成员分类
-Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自治成员（Autonomous Member）**两种，而员工又分为**全职员工（Full-time Employee）**和**兼职员工（Part-time Employee）**。以上人员均拥有自治组织的成员身份，可通过获取**“DAOECO” Token** 享有相关权益。另外，员工和自治成员通过相关程序可以互相转换。
+Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自治成员（Autonomous Member）**两种，而员工又分为**全职员工（Full-time Employee）**和**兼职员工（Part-time Employee）**。以上人员均拥有自治组织的成员身份，可通过获取**“DAOECO”** Token 享有相关权益。另外，员工和自治成员通过相关程序可以互相转换。
 
 ## 3. 协作工具
 ### 3.1. G Suit（文件共享）
@@ -96,7 +96,9 @@ b. 亲身或让其他 Telos Canton 成员在 Slack 群里再向 Rob Konsdorf 提
 Telos Canton Dao 成员基础指南模板：[https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md)
 
 ## 注释：
-[^1]: 发送给成员的邮件标题在此文标题前加上：英文名姓+空格+中文姓名+“的”+空格  
+
+[^1]: 发送给成员的邮件标题在此文标题前加上：英文名姓+空格+中文姓名+“的”+空格
+
 [^2]: “橡果”是“Telos”的中文昵称，因此 Telos Canton 的中文名称为“橡果·广州”。  
 [^3]: 按目前Telos白皮书内容，Telos 项目的正式英文名称为“Telos Network”，直译应为“Telos网络”，这里为符合中国国内的习惯称谓，将其称作“Telos 公链”。  
 [^4]: 橡果·广州于2018年7月26日加入Telos测试网络，正式成为Telos的候选节点。
