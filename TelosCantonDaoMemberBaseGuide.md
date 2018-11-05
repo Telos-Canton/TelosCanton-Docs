@@ -1,5 +1,7 @@
 # Telos Canton Dao 成员基础指南[^1]
 
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
+
 欢迎你作为全职员工/兼职员工/自治成员加入 Telos Canton[^2] Dao！
 
 ## 1. 基础知识
