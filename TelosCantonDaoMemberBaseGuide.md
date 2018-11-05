@@ -51,13 +51,14 @@ Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自
 ​     ・客户端：https://zoom.us/download
 
 ## 4. 账户信息
-4.1. G Suit（员工或自治成员代表可获得@teloscanton.io的Gmail邮箱）：账户为@teloscanton.io，密码为  
-4.2. Slack：登陆邮箱为@teloscanton.io，密码为  
-4.3. Github：如果已经有Github账户，请为账户邮箱添加@teloscanton.io；如果还没有Github账户，请使用@teloscanton.io注册  
-4.4. Trello：通过Google账户@teloscanton.io登陆  
-4.5. Crowdin：通过Google账户@teloscanton.io登陆  
-4.6. Slicing Pie：申请方法见第5.6项/登陆邮箱为@teloscanton.io，密码为  
-4.7. Zoom：通过Google账户@teloscanton.io登陆  
+4.1. Shadowsocks：  
+4.2. G Suit（员工或自治成员代表可获得@teloscanton.io的Gmail邮箱）：账户为@teloscanton.io，密码为  
+4.3. Slack：登陆邮箱为@teloscanton.io，密码为  
+4.4. Github：如果已经有Github账户，请为账户邮箱添加@teloscanton.io；如果还没有Github账户，请使用@teloscanton.io注册  
+4.5. Trello：通过Google账户@teloscanton.io登陆  
+4.6. Crowdin：通过Google账户@teloscanton.io登陆  
+4.7. Slicing Pie：申请方法见第5.6项/登陆邮箱为@teloscanton.io，密码为  
+4.8. Zoom：通过Google账户@teloscanton.io登陆  
 
 ## 5. 工作流程
 ### 5.1. 提问及答疑
