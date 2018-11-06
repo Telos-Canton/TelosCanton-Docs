@@ -5,7 +5,7 @@
 a. 解压“[科学上网-解压密码是123.zip](https://github.com/Telos-Canton/TelosCanton-Docs/raw/master/software/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81%E6%98%AF123.zip)”压缩包（注意解压密码是123）；  
 b. Windows 操作系统：复制“Windows+Chrome+Shadowsocks”中的“Shadowsocks”目录到C盘任意目录。点击“Shadowsocks”目录中的“Shadowsocks.exe”启动软件；  
 ​    MacOS 操作系统：在菜单栏依次点击“前往”→“应用程序”，将“MacOS+Chrome+Shadowsocks”中的“ShadowsocksX-NG.zip”拖到“应用程序”中，点击启动软件；  
-c. Windows 操作系统：在任务栏右下角找到“Shadowsocks”图标（纸飞机），右击选择“服务器”再点击“编辑服务器”；
+c. Windows 操作系统：在任务栏右下角找到“Shadowsocks”图标（纸飞机），右击选择“服务器”再点击“编辑服务器”；  
 ​    MacOS 操作系统：在顶栏找到“Shadowsocks”图标（纸飞机）， 右击选择“服务器”再点击“编辑服务器”；  
 d. 服务器IP、服务器端口和密码按提供的资料填写，加密方式选择“aes-256-cfb”；  
 e. Google 或百度搜索 Chrome 浏览器，下载并安装；  
