@@ -2,7 +2,7 @@
 
 ## 1. Windows & MacOS
 ### 1.1.  基本配置
-a. 解压“科学上网-解压密码是123.zip”压缩包（注意解压密码是123）；  
+a. 解压“[科学上网-解压密码是123.zip](https://github.com/Telos-Canton/TelosCanton-Docs/raw/master/software/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81%E6%98%AF123.zip)”压缩包（注意解压密码是123）；  
 b. Windows 操作系统：复制“Windows+Chrome+Shadowsocks”中的“Shadowsocks”目录到C盘任意目录。点击“Shadowsocks”目录中的“Shadowsocks.exe”启动软件；  
 ​    MacOS 操作系统：在菜单栏依次点击“前往”→“应用程序”，将“MacOS+Chrome+Shadowsocks”中的“ShadowsocksX-NG.zip”拖到“应用程序”中，点击启动软件；  
 c. Windows 操作系统：在任务栏右下角找到“Shadowsocks”图标（纸飞机），右击选择“服务器”再点击“编辑服务器”；
@@ -31,7 +31,7 @@ a. 使用 Windows 系统按上述指引启动软件仍然无法上网，可能�
 b. 遇到无法访问的网站，可尝试从“Auto in China”切换到“Shadowsocks”。或点击浏览器右上角的“SwitchyOmega”图标，选择“选项”，点击左侧的“Auto in China”，在切换规则栏底部点击“添加条件”，将无法访问网站的域名连通配符一并添加上去（如：*.abc.com），情景模式选择“Shadowsocks”，点击左侧的“应用选项”保存。
 
 ## 2. Android
-a. 解压“科学上网-解压密码是123.zip”压缩包（注意解压密码是123）；  
+a. 解压“[科学上网-解压密码是123.zip](https://github.com/Telos-Canton/TelosCanton-Docs/raw/master/software/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81%E6%98%AF123.zip)”压缩包（注意解压密码是123）；  
 b. 复制“Android”目录中的“Shadowsocks.apk”到Android手机任意目录（也可以到官网下载，网址如1.2.所示），安装应用；  
 c. 启动 Shadowsocks 应用，按右上角的加号，选择“手动设置”，服务器IP、服务器端口和密码按提供的资料填写，加密方式选择“aes-256-cfb”，点击勾号保存配置；  
 d. 选择已保存的服务器，按右下角的“纸飞机”启动代理服务。

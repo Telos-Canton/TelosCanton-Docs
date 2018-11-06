@@ -22,51 +22,54 @@ c. 追求思想及文化**多元性的融合**。
 Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自治成员（Autonomous Member）**两种，而员工又分为**全职员工（Full-time Employee）**和**兼职员工（Part-time Employee）**。以上人员均拥有自治组织的成员身份，可通过获取**“DAOECO”** Token 享有相关权益。另外，员工和自治成员通过相关程序可以互相转换。
 
 ## 3. 协作工具
-### 3.1. G Suit（文件共享）
-​     ・科学上网：推荐 Shadowsocks（https://shadowsocks.org/en/download/clients.html），Android 推荐 Shadowsocks 官网下载.apk安装文件，iOS 推荐 Apple Store 安装 Outline，桌面端推荐 Chrome+Proxy SwitchyOmega 插件，具体方法请索取“科学上网_本文件解压密码是123.zip”。  
+### 3.1.  G Suit（文件共享）
+​     ・科学上网：[Shadowsocks 简明使用指南](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/ShadowsocksQuickGuide.md)  
 ​     ・手机 App：应用市场搜索“Gmail”和“Google Drive”安装  
 ​     ・网页版：Gmail（[https://mail.google.com](https://mail.google.com)）和 Google Drive（[https://drive.google.com](https://drive.google.com)）
 
-### 3.2. Slack（工作沟通）
+### 3.2.  Slack（工作沟通）
 ​     ・手机 App：应用市场搜索“Slack”安装  
 ​     ・网页版：Telos Network（[https://telos-network.slack.com](https://telos-network.slack.com)）和 Telos Canton（[https://telos-canton.slack.com](https://telos-canton.slack.com)）  
 ​     ・桌面版：Windows（[https://slack.com/downloads/windows](https://slack.com/downloads/windows)）、Mac 版（[https://slack.com/downloads/osx](https://slack.com/downloads/osx)）和 Linux 版（[https://slack.com/downloads/linux](https://slack.com/downloads/linux)）
 
-### 3.3. Trello（任务管理）
+### 3.3.  Trello（任务管理）
 ​     ・手机 App：应用市场搜索“Trello”安装  
 ​     ・网页版：Telos贡献者（[https://trello.com/teamtelos](https://trello.com/teamtelos)）和Telos Canton（[https://trello.com/teloscanton](https://trello.com/teloscanton)）  
 ​     ・Telos 贡献者日程表（[https://teamup.com/kse8wuvrfao757t7ai](https://teamup.com/kse8wuvrfao757t7ai)）
 
-###  3.4. Github（版本控制）
+###  3.4.  Github（版本控制）
 ​     ・网页版：Telos基金会（[https://github.com/Telos-Foundation](https://github.com/Telos-Foundation)）、Telos Canton（[https://github.com/Telos-Canton](https://github.com/Telos-Canton)）、Telos Canton 翻译组（https://github.com/Telos-Canton/telos-docs）和 Telos 中文翻译组（[https://github.com/DAO-ECO/TelosDocs-En-Zh](https://github.com/DAO-ECO/TelosDocs-En-Zh)）  
 ​     ・客户端：https://desktop.github.com/
 
-###  3.5. Crowdin（翻译协作）
+###  3.5.  Crowdin（翻译协作）
 ​     ・网页版：Telos中文翻译组（https://crowdin.com/project/telosdocs-en-zh）和Telos Canton翻译组（https://crowdin.com/project/telos-docs）
 
-### 3.6. Telos Slicing Pie（贡献登记）
+### 3.6.  Telos Slicing Pie（贡献登记）
 ​     ・网页版：https://telos-slicing-pie.eosdetroit.io/
 
-### 3.7. Zoom（视频会议）
+### 3.7.  Zoom（视频会议）
 ​     ・手机 App：应用市场搜索“Zoom”安装  
 ​     ・网页版：https://zoom.us  
 ​     ・客户端：https://zoom.us/download
 
 ## 4. 账户信息
 4.1. Shadowsocks：  
+​     ・服务器IP：  
+​     ・服务器端口：  
+​     ・加密方式：  
 4.2. G Suit（员工或自治成员代表可获得@teloscanton.io的Gmail邮箱）：账户为@teloscanton.io，密码为  
 4.3. Slack：登陆邮箱为@teloscanton.io，密码为  
 4.4. Github：如果已经有Github账户，请为账户邮箱添加@teloscanton.io；如果还没有Github账户，请使用@teloscanton.io注册  
 4.5. Trello：通过Google账户@teloscanton.io登陆  
 4.6. Crowdin：通过Google账户@teloscanton.io登陆  
-4.7. Slicing Pie：申请方法见第5.6项/登陆邮箱为@teloscanton.io，密码为  
-4.8. Zoom：通过Google账户@teloscanton.io登陆  
+4.7. Slicing Pie：申请方法见第5.6项 / 登陆邮箱为@teloscanton.io，密码为  
+4.8. Zoom：通过Google账户@teloscanton.io登陆
 
 ## 5. 工作流程
-### 5.1. 提问及答疑
-**a. 节点服务器运维**：微信群“**Telos主网启动华语组**”（联系组内成员申请加入）、Telegram群“**Telos Testnet**”（https://t.me/TelosTestnet）和Slack群“**Telos Network**”的 **#network-maintenance** 频道（https://telos-network.slack.com/messages/CBYH4329K）  
-**b. 中英文翻译**：微信群“**Telos主网启动华语组**”和Slack群“**Telos Network**”的 **#translation** 频道（https://telos-network.slack.com/messages/CBYD1KN02）  
-**c. 综合和治理**：微信群“**Telos中文群**”（联系组内成员申请加入）、Telegram群“**The Telos Foundation**”（https://t.me/HelloTelos）和“**橡果（Telos）官方中文群**”（https://t.me/Telos_CN）
+### 5.1. 讨论和答疑
+**a. 节点服务器运维**：微信群“**Telos主网启动华语组**”（联系组内成员申请加入）、Telegram群“**Telos Testnet**”（ https://t.me/TelosTestnet ）和Slack群“**Telos Network**”的 **#network-maintenance** 频道（ https://telos-network.slack.com/messages/CBYH4329K ）  
+**b. 中英文翻译**：微信群“**Telos中文翻译组**”和Slack群“**Telos Network**”的 **#translation** 频道（ https://telos-network.slack.com/messages/CBYD1KN02 ）  
+**c. 综合和治理**：微信群“**Telos中文群**”（联系组内成员申请加入）、Telegram群“**The Telos Foundation**”（ https://t.me/HelloTelos ） 和“**橡果（Telos）官方中文群**”（ https://t.me/Telos_CN ）
 
 ### 5.2. 创建和处理任务
 a. 在 Trello 新建任务卡片，按完成情况改变卡片状态；  
