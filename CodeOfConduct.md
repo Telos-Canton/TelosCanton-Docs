@@ -2,6 +2,8 @@
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
+Telos Canton’s operation is entirely self-financed. As a Telos BP, in order to ensure independence, and not subject to any capital controls, Telos Canton will not accept any third-party investment now or in the future.
+
 Telos Canton 将同意并严格遵守以下 Telos Blockchain Network 的相关协议。
 
 1.1. Telos_Blockchain_Network_Operating_Agreement_English.docx
@@ -15,3 +17,5 @@ Telos Canton 将同意并严格遵守以下 Telos Blockchain Network 的相关�
 
 4.1. Telos_regarb_Human-language_Contract_English.docx
 4.2. Telos_regarb_Human-language_Contract_Chinese.docx
+
+以上所有文档均由 Telos Canotn 的创始人杨建锋代表 Telos Canton 签署生效，签名见文档未页，样式如下：
