@@ -1,5 +1,5 @@
 # Telos Canton Code of Conduct
-
+## 橡果·广州行为守则
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
 Telos Canton, inspired by Telos's ideal, adheres to the "Fair, Just, Open" principle,  and strives to make Telos Canton a complete DAO. And the Libra.Vote decentralized voting and social survey system will be developed to extend the Telos network usage.
@@ -21,7 +21,7 @@ Telos Canton 追随Telos的理念，坚守“公平、公正、公开”的原�
 
 Telos Canton 完全自筹资金运营。作为Telos节点侯选人运营机构，为保证独立性，不受任何资本控制，Telos Canton 现在和将来都不会接受任何第三方投资。
 
-Telos Canton 将同意并严格遵守以下 Telos Blockchain Network 的相关协议:  
+Telos Canton 将同意并严格遵守以下 Telos 区块链网络的相关协议：  
 1.2. [Telos区块链网络运营协议（TBNOA）](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_Blockchain_Network_Operating_Agreement_Chinese.pdf)  
 2.2. [Telos区块链网络仲裁规则和程序](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_Blockchain_Network_Arbitration_Rules_and_Procedures_Chinese.pdf)  
 3.2. [Telos “regproducer”人类语言合约](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_regproducer_Human-language_Contract_Chinese.pdf)  
