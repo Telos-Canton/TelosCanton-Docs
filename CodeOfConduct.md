@@ -7,10 +7,10 @@ Telos Canton, inspired by Telos's ideal, adheres to the "Fair, Just, Open" princ
 Telos Canton’s operation is entirely self-financed. As a Telos BP Candidate, in order to ensure independence, and not subject to any capital controls, Telos Canton will not accept any third-party investment now or in the future.
 
 Telos Canton agrees and strictly abides by the following Agreements of Telos Blockchain Network:  
-1.1. [Telos Blockchain Network Operating Agreement](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_Blockchain_Network_Operating_Agreement_English.pdf)  
-2.1. [Telos Blockchain Network Arbitration Rules and Procedures](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_Blockchain_Network_Arbitration_Rules_and_Procedures_English.pdf)  
-3.1. [Telos "regproducer" Human-language Contract](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_regproducer_Human_language_Contract_English.pdf)  
-4.1. [Telos "regarb" Human-language Contract](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_regarb_Human-language_Contract_English.pdf) 
+1.1. [Telos Blockchain Network Operating Agreement - Signed](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_Blockchain_Network_Operating_Agreement_English.pdf)  
+2.1. [Telos Blockchain Network Arbitration Rules and Procedures - Signed](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_Blockchain_Network_Arbitration_Rules_and_Procedures_English.pdf)  
+3.1. [Telos "regproducer" Human-language Contract - Signed](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_regproducer_Human_language_Contract_English.pdf)  
+4.1. [Telos "regarb" Human-language Contract - Signed](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_regarb_Human-language_Contract_English.pdf) 
 
 The above documents were signed by Telos Canotn founder Yang Jianfeng (known as Fieldy Yeung) on behalf of Telos Canton. The signature is shown on the last page of each document. The style is as follows:   
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/agreement/Telos_Canton_Founder_Signature_English.jpg)
