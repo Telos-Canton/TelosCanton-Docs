@@ -13,4 +13,4 @@
 
 ### 2. Member 成员
 
-Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自治成员（Autonomous Member）**两种，而员工又分为**全职员工（Full-time Employee）**和**兼职员工（Part-time Employee）**。以上人员均拥有自治组织的成员身份，可通过获取**“DAOECO”** Token 享有相关权益。另外，员工和自治成员通过相关程序可以互相转换。
+Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自治成员（Autonomous Member）**两种，而员工又分为**全职员工（Full-time Employee）**和**兼职员工（Part-time Employee）**。以上人员均拥有自治组织的成员身份，可通过获取“**DAOECO**” Token 享有相关权益。另外，员工和自治成员通过相关程序可以互相转换。

@@ -19,7 +19,7 @@ b. 通过**去中心化**达至**平衡**的治理方式；
 c. 追求思想及文化**多元性的融合**。
 
 ## 2. 成员分类
-Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自治成员（Autonomous Member）**两种，而员工又分为**全职员工（Full-time Employee）**和**兼职员工（Part-time Employee）**。以上人员均拥有自治组织的成员身份，可通过获取**“DAOECO”** Token 享有相关权益。另外，员工和自治成员通过相关程序可以互相转换。
+Telos Canton Dao 的**成员（Member）**分为**员工（Employee）**和**自治成员（Autonomous Member）**两种，而员工又分为**全职员工（Full-time Employee）**和**兼职员工（Part-time Employee）**。以上人员均拥有自治组织的成员身份，可通过获取“**DAOECO**” Token 享有相关权益。另外，员工和自治成员通过相关程序可以互相转换。
 
 ## 3. 协作工具
 ### 3.1.  G Suit（文件共享）
