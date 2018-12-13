@@ -12,7 +12,7 @@ Telos Canton agrees and strictly abides by the following Agreements of Telos Blo
 3.1. [Telos "regproducer" Human-language Contract](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_regproducer_Human_language_Contract_English.pdf)  
 4.1. [Telos "regarb" Human-language Contract](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/agreement/Telos_regarb_Human-language_Contract_English.pdf) 
 
-The above documents were signed by Telos Canotn founder Yang Jianfeng on behalf of Telos Canton. The signature is shown on the last page of each document. The style is as follows:   
+The above documents were signed by Telos Canotn founder Yang Jianfeng (known as Fieldy Yeung) on behalf of Telos Canton. The signature is shown on the last page of each document. The style is as follows:   
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/agreement/Telos_Canton_Founder_Signature_English.jpg)
 
 ---
