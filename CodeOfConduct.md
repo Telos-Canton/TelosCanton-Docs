@@ -2,6 +2,8 @@
 ## 橡果·广州行为守则
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
+Official Website: https://teloscanton.io
+
 Telos Canton, inspired by Telos's ideal, adheres to the "Fair, Just, Open" principle,  and strives to make Telos Canton a complete DAO. And the Libra.Vote decentralized voting and social survey system will be developed to extend the Telos network usage.
 
 Telos Canton’s operation is entirely self-financed. As a Telos BP Candidate, in order to ensure independence, and not subject to any capital controls, Telos Canton will not accept any third-party investment now or in the future.
@@ -16,6 +18,8 @@ The above documents were signed by Telos Canotn founder Yang Jianfeng (known as 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/agreement/Telos_Canton_Founder_Signature_English.jpg)
 
 ---
+
+官网：https://teloscanton.io
 
 Telos Canton 追随Telos的理念，坚守“公平、公正、公开”的原则，努力将 Telos Canton 打造成一个去中心化自治组织（DAO）。Telos Canton 将开发 Libra.Vote 去中心化投票和社会调查系统，扩大 Telos 网络的应用。
 
