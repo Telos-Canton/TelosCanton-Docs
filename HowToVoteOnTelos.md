@@ -5,8 +5,8 @@
 下载网址：https://github.com/Telos-Foundation/Sqrl/releases
 Windows 用户选择“win-Sqrl-x.x.x.exe”
 Mac 用户选择“mac-Sqrl-x.x.x.dmg”
-Linux 用户不说也懂的……别问什么是x.x.x，看到就秒懂了。
-下载完成安装软件吧。
+Linux 用户……
+下载完成安装软件。
 
 ### 第二步：输入EOS创世账户私钥
 （中间过程截图说明，敏感信息比如帐户名称和币的数量都要打码）
