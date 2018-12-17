@@ -3,6 +3,10 @@
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
+- Official Website: https://teloscanton.io
+- [Code of Conduct](./CodeOfConduct.md)
+- [Community Work](./TelosCantonCommunityWork.md)
+
 ### 1. Ownership 所有权
 
 |                                                              | Mandarin Pinyin Name</br>汉语拼音名 | Cantonese Pinyin Name</br>英文名+粤语拼音姓 | 中文名 | Share Capital</br>股权 |                        Linkedin</br>领英                         |
