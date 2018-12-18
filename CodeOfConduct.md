@@ -1,6 +1,6 @@
 # Telos Canton Code of Conduct
 ## 橡果·广州行为守则
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Libra.Vote-Logo-200X200.png)
 
 - Official Website: https://teloscanton.io
 - [Ownership Disclosure](./OwnershipDisclosure.md)
