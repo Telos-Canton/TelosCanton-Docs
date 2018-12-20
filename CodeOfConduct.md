@@ -28,8 +28,8 @@ creating a variety of opportunities, and maximizing the individual’s traits an
 - Fairness is reflected in the strict observance of the rules of consensus, the judgment of behavior according to the rules, and the independent of the influence and control of interests.
 - Public information includes, and is not limited to, ideas, decisions, finances, executions, and rights, which guarantees transparency and public supervision.
 2. The technology and governance model of blockchain can make our world fairer and better, enable more people to realize their dreams.
-3. “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.”- Allen Turing
-4. “The telos of an acorn is to become an oak tree.”- Aristotle
+3. “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” - Allen Turing
+4. “The telos of an acorn is to become an oak tree.” - Aristotle
 5. Teleology believes that before deciding how resources are allocated, we need to study what the “purpose” of the allocated resources is. The philosophical starting point of Plato and Aristotle is “Telos”, which is ancient Greek, meaning purpose, intention, goal or nature.
 6. “What belongs to the national belongs to the world.”- Lu Xun
 As the world itself is composed of diverse cultures of different nationalities, the essence of the world is diversity, and each national culture is unique. Only by respecting one’s own culture, maintaining the uniqueness of its own culture and removing the inferiority of its own culture, can a nationality become the common cultural wealth of all mankind. That is when world culture is defined as world culture. On the basis of recognizing one’s own traits, culture and abilities, we can make the world-wide collaboration more unimpeded by accepting and embracing the diversity of different groups of people.
