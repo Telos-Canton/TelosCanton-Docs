@@ -11,7 +11,7 @@ b. Telos Canton 是以财务公开为基本守则的 DPos 公链节点；
 c. Telos Canton 是 Telos 公链[^3]的侯选节点；  
 d. Telos Canton 是第一个正式加入 Telos 的中国节点[^4]；  
 e. Telos Canton 是 Telos 主网启动组成员；  
-f. Telos Canton 是 Telos 基金会的合作伙伴。
+f. Telos Canton 是 Telos 基金会的合作伙伴。  
 g. Telos Canton 是 DApp 奖励计划选拨委员会成员  
 了解更多：[https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)   
 另外，希望你从心底认同 Telos Canton 坚守的理念：  
@@ -88,9 +88,8 @@ g. 在 Github 对应语言目录查看完成翻译的文档。
 通过微信群“Telos Canton 内部”发起语音会议，每周两至三次（视工作需要），一般为星期一三五。
 ### 5.5. Telos Canton Dao 成员会议
 在 Slack 群“**Telos Canton**” 的  **#meetings** 频道，获取最新的会议信息，信息中会包含一个链接，点击链接跳转到会议页面，此时会提示是否用客户端打开，通过上面提供的账户登陆后则可进行会议。
-### 5.6. 申请 Telos Slicing Pie 账户
-a. 需要向 TLG 申请，发送申请邮件给批核人 Rob Konsdorf（rob@eosdetroit.io），优先使用 @teloscanton.io 邮箱发送。申请邮件必须包含以下内容：英文姓名、表明 Telos Canton 成员身份，参与贡献的工作类别（Stage 1 Testnet Participation 团队参与测试网、Stage 1.0 Testnet Node Member 1.0测试网成员、Stage 1.1 Testnet Node Member 1.1测试网成员、Translator 翻译、Recruiter 招募、Coordinator 协调、Marketing Coordinator 市场沟通、Social Media Manager 社交媒体管理、Business Developer 商务、Graphic Designer 平面设计、C++ Developer 开发、Web Developer 前端）；  
-b. 亲身或让其他 Telos Canton 成员在 Slack 群里再向 Rob Konsdorf 提出申请。
+### 5.6. 贡献登记
+（待定）
 
 ### 5.7. Telos 主网启动组视频会议
 ・会议日程：https://teamup.com/kse8wuvrfao757t7ai  
