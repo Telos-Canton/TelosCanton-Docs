@@ -31,7 +31,7 @@ creating a variety of opportunities, and maximizing the individual’s traits an
 3. “Sometimes it is the people no one can imagine anything of who do the things no one can imagine.” - Allen Turing
 4. “The telos of an acorn is to become an oak tree.” - Aristotle
 5. Teleology believes that before deciding how resources are allocated, we need to study what the “purpose” of the allocated resources is. The philosophical starting point of Plato and Aristotle is “Telos”, which is ancient Greek, meaning purpose, intention, goal or nature.
-6. “What belongs to the national belongs to the world.”- Lu Xun
+6. “What belongs to the national belongs to the world.”- Lu Xun  
 As the world itself is composed of diverse cultures of different nationalities, the essence of the world is diversity, and each national culture is unique. Only by respecting one’s own culture, maintaining the uniqueness of its own culture and removing the inferiority of its own culture, can a nationality become the common cultural wealth of all mankind. That is when world culture is defined as world culture. On the basis of recognizing one’s own traits, culture and abilities, we can make the world-wide collaboration more unimpeded by accepting and embracing the diversity of different groups of people.
 
 ---
@@ -64,5 +64,5 @@ Telos Canton 同意并严格遵守以下 Telos 区块链网络的相关协议：
 3. “有时候，正是那种没人会想到的人，做出了没人能想到的事。”— — 艾伦·图灵
 4. “橡果的目标是成为一棵橡树。” — — 亚里士多德
 5. “目的论”（Teleological）认为，再决定资源如何分配之前，我们需要研究被分配资源的“目的”是什么。柏拉图和亚里士多德的哲学出发点都是“Telos”，“Telos”为古希腊语，意为目的、意图、目标或本性。
-6. “只有民族的，才是世界的。” — — 鲁迅
+6. “只有民族的，才是世界的。” — — 鲁迅  
 因为世界本身就是由不同民族的多元文化组成的，世界的本质就是多样化，而每个民族文化都是独一无二的，只有先尊重自己的文化，保持自身文化优秀的独特性，去除自身文化的劣根性，才能成为全人类共同的文化财富，世界文化也才称其为世界文化。在认同自身特质、文化和能力的基础上，接受和包容不同人群的多样性，才能使世界范围的协作畅通无阻。
