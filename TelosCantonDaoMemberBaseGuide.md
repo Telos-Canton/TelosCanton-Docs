@@ -12,6 +12,7 @@ c. Telos Canton 是 Telos 公链[^3]的侯选节点；
 d. Telos Canton 是第一个正式加入 Telos 的中国节点[^4]；  
 e. Telos Canton 是 Telos 主网启动组成员；  
 f. Telos Canton 是 Telos 基金会的合作伙伴。
+g. Telos Canton 是 DApp 奖励计划选拨委员会成员  
 了解更多：[https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)   
 另外，希望你从心底认同 Telos Canton 坚守的理念：  
 a. **公平、公正、公平**的原则；  
