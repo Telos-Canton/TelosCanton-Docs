@@ -21,7 +21,7 @@
 ### 	3.2. [行为披露](https://medium.com/@teloscanton/telos-canton-information-disclosure-dec-25-2018-%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-42357777e0ad)
 
 ## 4. 自治组织
-### 	4.1. [Telos Canton 去中心化自治组织成员基础手册](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md)
+### 	4.1. [Telos Canton 去中心化自治组织成员手册](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberGuide.md)
 ### 	4.1. Telos Canton DAO 宪法
 ### 	4.2. DAO.ECO DRP 系统
 
@@ -60,7 +60,7 @@
 ### 	3.2. [Activities Disclosure](https://medium.com/@teloscanton/telos-canton-information-disclosure-dec-25-2018-%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-42357777e0ad)
 
 ## 4. DAO
-### 	4.1. [Telos Canton Dao Member BaseGuide](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md)
+### 	4.1. [Telos Canton Dao Member Guide](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberGuide.md)
 ### 	4.2. Telos Canton DAO Constitution
 ### 	4.3. DAO.ECO DRP System
 
