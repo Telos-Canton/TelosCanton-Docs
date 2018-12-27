@@ -4,7 +4,7 @@
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
 ## 1. 关于 Telos Canton
-### 1.1. [Telos Canton 简介](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)
+### 	1.1. [Telos Canton 简介](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)
 ### 	1.2. Telos 白皮书
 #### 		1.2.1 [Telos 中文白皮书](https://github.com/Telos-Canton/telos-docs/blob/master/zh-CN/TelosWhitePaper.md)
 #### 		1.2.2 [Telos 英文白皮书](https://github.com/Telos-Canton/Telos-Docs/blob/master/TelosWhitePaper.md)
