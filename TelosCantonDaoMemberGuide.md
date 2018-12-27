@@ -1,4 +1,4 @@
-# Telos Canton Dao 成员基础指南[^1]
+# Telos Canton Dao 成员指南[^1]
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
