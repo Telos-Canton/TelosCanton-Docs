@@ -4,11 +4,12 @@
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
 ## 1. 关于 Telos Canton
-### 1.1. T[elos Canton 简介](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)
+### 1.1. [Telos Canton 简介](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)
 ### 	1.2. Telos 白皮书
 #### 		1.2.1 [Telos 中文白皮书](https://github.com/Telos-Canton/telos-docs/blob/master/zh-CN/TelosWhitePaper.md)
 #### 		1.2.2 [Telos 英文白皮书](https://github.com/Telos-Canton/Telos-Docs/blob/master/TelosWhitePaper.md)
 ### 	1.3. Telos Canton 团队
+### 	1.4. 手至无式
 
 ## 2. [行为守则](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/CodeOfConduct.md)
 ### 	2.1. 守则
@@ -36,6 +37,9 @@
 
 ## 7. 时间轴
 
+## 8. 真实的中国
+### 	8.1. “粤”文化
+
 ---
 
 ## 1. About
@@ -44,6 +48,7 @@
 #### 		1.2.1 [Telos White Paper - English](https://github.com/Telos-Canton/Telos-Docs/blob/master/TelosWhitePaper.md)
 #### 		1.2.2 [Telos White Payer - Chinese](https://github.com/Telos-Canton/telos-docs/blob/master/zh-CN/TelosWhitePaper.md)
 ### 	1.3. Telos Canton Team
+### 	1.4. SoziMosi (手至无式)
 
 ## 2. [Code of Conduct](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/CodeOfConduct.md)
 ### 	2.1. Conduct
@@ -70,3 +75,6 @@
 ### 	6.2. Timeline
 
 ## 7. Timeline
+
+## 8. The Real China
+### 	8.1. "Yue (粤)" Culture
