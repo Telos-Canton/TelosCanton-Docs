@@ -15,7 +15,7 @@ Telos Canton is a member of TLG.
 ### 2. Initiator of  Telos Chinese Translation Team
 Telos Canton plans to set up a Telos Chinese translation team to provide comprehensive Chinese material and information for Chinese users.   
 The translation team is now in its infancy and is preparing to accelerate its operations.
-Translation team intruduction: https://github.com/DAO-ECO/TelosDocs-En-Zh/blob/master/en-US/README_en-US.md
+Translation team intruduction: https://github.com/DAO-ECO/TelosDocs-En-Zh/blob/master/en-US/TelosChineseTranslationGroup_en-US.md
 
 ### 3. Member of  The GoodGrants Selection Committee
 https://goodblock.io/goodgrant
