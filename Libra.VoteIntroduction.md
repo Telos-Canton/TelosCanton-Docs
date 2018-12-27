@@ -1,4 +1,5 @@
-# Libra.Vote（理吧啦）简介
+# Libra.Vote Introduction
+## 理吧啦（Libra.Vote）简介
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Libra.Vote-Logo-200X200.png)
 
@@ -17,4 +18,3 @@ Libra.Vote系统由LIBRA Token、投票正物质和投票反物质结合运作�
 为保证私隐，投票发起方只能知道结果，不能拿取用户的具体数据。
 
 由于Libra.Vote（理吧啦）是一套复杂的系统，需要较长的开发时间，因此在这个活动中只会使用基本的登记功能，但活动奖励的LIBRA Token在系统正式上线之后仍然有效。
-
