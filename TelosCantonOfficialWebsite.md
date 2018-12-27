@@ -26,7 +26,7 @@
 ### 	4.2. DAO.ECO DRP 系统
 
 ## 5. 社区工作
-### 	5.1. 组织成员
+### 	5.1. 合作伙伴
 ### 	5.2. Telos 中文翻译组
 ### 	5.3. Telos 华语开发者社区
 ### 	5.4. Telos 哲学家
@@ -65,7 +65,7 @@
 ### 	4.3. DAO.ECO DRP System
 
 ## 5. Community Work
-### 	5.1. 
+### 	5.1. Partners
 ### 	5.2. Telos Chinese Translation Team
 ### 	5.3. Telos Chinese Developer Community
 ### 	5.4. Telos Philosopher
