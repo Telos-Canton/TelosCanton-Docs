@@ -1,4 +1,7 @@
 # Telos Canton Official Website
+### Telos Canton 官方网站
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
 ## 1. 关于 Telos Canton
 ### 1.1. T[elos Canton 简介](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)
