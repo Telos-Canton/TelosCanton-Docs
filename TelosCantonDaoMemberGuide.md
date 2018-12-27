@@ -99,7 +99,7 @@ g. 在 Github 对应语言目录查看完成翻译的文档。
 希望你能在 Telos Canton Dao 遇到志同道合的有趣灵魂，通过这个平台实现自己的价值和目标！
 
 ## 附录：
-Telos Canton Dao 成员基础指南模板：[https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberBaseGuide.md)
+Telos Canton Dao 成员指南模板：[https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberGuide.md](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberGuide.md)
 
 ## 注释：
 
