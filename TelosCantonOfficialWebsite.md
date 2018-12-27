@@ -26,13 +26,13 @@
 ### 	4.2. DAO.ECO DRP 系统 （产品设计阶段）
 
 ## 5. [社区工作](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonCommunityWork.md)
-### 	5.1. 合作伙伴
+### 	5.1. [合作伙伴](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonCommunityWork.md)
 ### 	5.2. [Telos 中文翻译组](https://github.com/DAO-ECO/TelosDocs-En-Zh/blob/master/README.md)
-### 	5.3. Telos 华语开发者社区
-### 	5.4. Telos 哲学家
+### 	5.3. Telos 华语开发者社区 （筹划中）
+### 	5.4. Telos 哲学家 （筹划中）
 
 ## 6. 理吧拉(Libra.Vote)
-### 	6.1. 简介
+### 	6.1. [简介](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/Libra.VoteIntroduction.md)
 ### 	6.2. 白皮书  ✘
 ### 	6.3. 时间轴 ✘
 
@@ -40,6 +40,7 @@
 
 ## 8. 真实的中国
 ### 	8.1. “粤”文化
+### 	8.2. 什么是华夏？
 
 ---
 
@@ -66,17 +67,18 @@
 ### 	4.3. DAO.ECO DRP System (product design phase)
 
 ## 5. [Community Work](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonCommunityWork.md)
-### 	5.1. Partners
+### 	5.1. [Partners](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonCommunityWork.md)
 ### 	5.2. [Telos Chinese Translation Team](https://github.com/DAO-ECO/TelosDocs-En-Zh/blob/master/en-US/TelosChineseTranslationGroup_en-US.md)
-### 	5.3. Telos Chinese Developer Community
-### 	5.4. Telos Philosopher
+### 	5.3. Telos Chinese Developer Community (planning)
+### 	5.4. Telos Philosopher (planning)
 
 ## 6. Libra.Vote
-### 	6.1. Introduction
-### 	6.2. White Paper
-### 	6.3. Timeline
+### 	6.1. [Introduction](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/Libra.VoteIntroduction.md)
+### 	6.2. White Paper ✘ 
+### 	6.3. Timeline ✘
 
-## 7. Timeline
+## 7. Timeline ✘
 
 ## 8. The Real China
 ### 	8.1. "Yue (粤)" Culture
+### 	8.2. What's "HuaXia (华夏)"?
