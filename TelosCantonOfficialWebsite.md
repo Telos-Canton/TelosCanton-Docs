@@ -44,7 +44,7 @@
 
 ---
 
-## 1. About
+## 1. About Telos Canton
 ### 	1.1. [Telos Canton Profile](https://medium.com/@teloscanton/about-telos-canton-703f76f7fa4d)
 ### 	1.2. Telos White Paper 
 #### 		1.2.1 [Telos White Paper - English](https://github.com/Telos-Canton/Telos-Docs/blob/master/TelosWhitePaper.md)
