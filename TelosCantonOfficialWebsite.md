@@ -31,7 +31,7 @@
 ### 	5.3. Telos 华语开发者社区 （筹划中）
 ### 	5.4. Telos 哲学家 （筹划中）
 
-## 6. 理吧拉(Libra.Vote)
+## 6. 理吧拉
 ### 	6.1. [简介](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/Libra.VoteIntroduction.md)
 ### 	6.2. 白皮书  ✘
 ### 	6.3. 时间轴 ✘
