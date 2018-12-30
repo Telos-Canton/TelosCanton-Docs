@@ -17,7 +17,7 @@
 ### 	2.3. 信念
 
 ## 3. 信息披露
-### 	3.1. [所有权披露](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/CodeOfConduct.md)
+### 	3.1. [所有权披露](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/OwnershipDisclosure.md)
 ### 	3.2. [行为披露](https://medium.com/@teloscanton/telos-canton-information-disclosure-dec-25-2018-%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-42357777e0ad)
 
 ## 4. 自治组织
@@ -58,7 +58,7 @@
 ### 	2.3. Belief
 
 ## 3. Information Disclosure
-### 	3.1. [Ownership Disclosure](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/CodeOfConduct.md)
+### 	3.1. [Ownership Disclosure](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/OwnershipDisclosure.md)
 ### 	3.2. [Activities Disclosure](https://medium.com/@teloscanton/telos-canton-information-disclosure-dec-25-2018-%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-42357777e0ad)
 
 ## 4. DAO
