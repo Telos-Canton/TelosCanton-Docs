@@ -33,7 +33,7 @@
 ### 	5.1. [合作伙伴](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonCommunityWork.md)
 ### 	5.2. [Telos 中文翻译组](https://github.com/DAO-ECO/TelosDocs-En-Zh/blob/master/README.md)
 ### 	5.3. Telos 华语开发者社区 （筹划中）
-### 	5.4. Telos 哲学家 （筹划中）
+### 	5.4. Telos 哲学社 （筹划中）
 
 ## 6. 理吧拉
 ### 	6.1. [简介](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/Libra.VoteIntroduction.md)
@@ -78,7 +78,7 @@
 ### 	5.1. [Partners](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonCommunityWork.md)
 ### 	5.2. [Telos Chinese Translation Team](https://github.com/DAO-ECO/TelosDocs-En-Zh/blob/master/en-US/TelosChineseTranslationGroup_en-US.md)
 ### 	5.3. Telos Chinese Developer Community (planning)
-### 	5.4. Telos Philosopher (planning)
+### 	5.4. Telos Philosophy Society (planning)
 
 ## 6. Libra.Vote
 ### 	6.1. [Introduction](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/Libra.VoteIntroduction.md)
