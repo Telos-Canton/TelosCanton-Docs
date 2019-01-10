@@ -11,14 +11,18 @@
 ### 	1.3. Telos Canton 团队 ✘
 ### 	1.4. 手至无式 ✘
 
-## 2. [行为守则](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/CodeOfConduct.md)
-### 	2.1. 守则
-### 	2.2. 协议
-### 	2.3. 信念
+## 2. Telos世界树
+### 	3.1. 主树
+### 	3.2. 节庆
+### 	3.3. 漫画 ✘
 
-## 3. 信息披露
-### 	3.1. [所有权披露](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/OwnershipDisclosure.md)
-### 	3.2. [行为披露](https://medium.com/@teloscanton/telos-canton-information-disclosure-dec-25-2018-%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-42357777e0ad)
+## 3. 守则和披露
+### 	3.1. [行为守则](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/CodeOfConduct.md)
+#### 	3.1.1. 守则
+#### 	3.1.2. 协议
+#### 	3.1.3. 信念
+### 	3.2. [所有权披露](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/OwnershipDisclosure.md)
+### 	3.3. [行为披露](https://medium.com/@teloscanton/telos-canton-information-disclosure-dec-25-2018-%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-42357777e0ad)
 
 ## 4. 自治组织
 ### 	4.1. [Telos Canton 去中心化自治组织成员手册](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberGuide.md)
@@ -52,14 +56,18 @@
 ### 	1.3. Telos Canton Team ✘
 ### 	1.4. SoziMosi (手至无式) ✘
 
-## 2. [Code of Conduct](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/CodeOfConduct.md)
-### 	2.1. Conduct
-### 	2.2. Agreement
-### 	2.3. Belief
+## 2. Telos World Tree
+### 	3.1. Main Tree
+### 	3.2. Festival
+### 	3.3. Comic ✘
 
-## 3. Information Disclosure
-### 	3.1. [Ownership Disclosure](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/OwnershipDisclosure.md)
-### 	3.2. [Activities Disclosure](https://medium.com/@teloscanton/telos-canton-information-disclosure-dec-25-2018-%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-42357777e0ad)
+## 3. Conduct & Disclosure
+### 	3.1. [Code of Conduct](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/CodeOfConduct.md)
+#### 	3.1.1. Conduct
+#### 	3.1.2. Agreement
+#### 	3.1.3. Belief
+### 	3.2. [Ownership Disclosure](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/OwnershipDisclosure.md)
+### 	3.3. [Activities Disclosure](https://medium.com/@teloscanton/telos-canton-information-disclosure-dec-25-2018-%E4%BF%A1%E6%81%AF%E6%8A%AB%E9%9C%B2-42357777e0ad)
 
 ## 4. DAO
 ### 	4.1. [Telos Canton Dao Member Guide](https://github.com/Telos-Canton/TelosCanton-Docs/blob/master/TelosCantonDaoMemberGuide.md)
