@@ -45,6 +45,13 @@ This legendary statue symbolizes a good harvest, peace, hard work and yearning f
 
 Independence, pragmatism, dedication, perseverance, and integrity - the spirit of Kapok symbolizes our adherence to quality. No matter how advanced technology and systems are, they are run by people. We pursue the use of technology to minimize the impact of people, but people are always the most important influence. Therefore, we must commit to our words and deeds and strictly abide by it in order to effectively maintain the security and stability of the public blockchain network.
 
+## One question
+
+![](.\images\Libra.Vote-Logo-200X200.png)
+
+We often think about a question: despite the rich and good spiritual core we have always possessed, why did we only make relatively limited contributions to the world during the time of modern Chinese history, and yet have left some bad impressions on the world during the contemporary time? Of course, history and reality are complex, things have its multifaceted nature (achievement and problems coexist), and development has its own stage (there are inevitable problems), which can not be simply explained in a few words.
+However, if the technology and governance model of the blockchain can make the world more fair and creative, can it help us to regain the fine traditions, remove bad burdens, and make more and greater contributions to the world? Telos Canton hopes to achieve this through action.
+
 ## One explanation
 
 ![](.\images\telos-canton-logo-slogan-200X200.png)
@@ -54,13 +61,6 @@ Before the establishment of Telos Canton, community members made a lot of sugges
 2. Diversified cultural integration stimulates creativity and helps people understand this colorful world;
 3. Exploring the ingredients that are beneficial to the world from the local culture, and combining the traditional good ideas with the concept of blockchain.
 4. Replacing the official "GuangZhou" with "Canton". In addition to the long history of the name "Canton", we hope to show the unique and beautiful side of "Yue culture"(Different from Mandarin).
-
-## One question
-
-![](.\images\Libra.Vote-Logo-200X200.png)
-
-We often think about a question: despite the rich and good spiritual core we have always possessed, why did we only make relatively limited contributions to the world during the time of modern Chinese history, and yet have left some bad impressions on the world during the contemporary time? Of course, history and reality are complex, things have its multifaceted nature (achievement and problems coexist), and development has its own stage (there are inevitable problems), which can not be simply explained in a few words.
-However, if the technology and governance model of the blockchain can make the world more fair and creative, can it help us to regain the fine traditions, remove bad burdens, and make more and greater contributions to the world? Telos Canton hopes to achieve this through action.
 
 We hope the above information will help you to know more about Telos Canton.  
 Thank you for voting for: teloscantons  
@@ -95,15 +95,15 @@ Telos Canton 将通过7张来自广州的照片，尝试让您了解广州（可
 ## 7. 木棉花开
 独立、务实、奉献、坚毅、顶天立地——木棉花象征的精神，也是我们坚守品质。无论技术和制度如何先进，它都是由人去运行的，我们追求通过技术尽量降低人的影响，但人永远都是最重要的影响。所以，我们必须要有对自己的言行作出承诺，并严格遵守它，才能有效维护公链的安全和稳定。
 
+## 一个问题
+我们经常思考一个问题，为什么我们有如此丰富和优秀的精神内核，但近代给世界带来的贡献却非常有限，而现代很多方面却给世界留下了诸多不良的印象？当然，历史和现实是复杂的，事物有它的多面性（成就与问题并存），发展有其阶段性（存在不可避免的问题），不是三言两语所能道清。如果区块链的技术和治理模式能使这个世界更加公平和富有创造力，那么它能否帮助我们重拾这些优良的传统，除去不良的包袱，为这个世界作出更多更大的贡献？但如果我们只停留在思索的阶段，就永远不会有答案，所以，Telos Canton 希望能通过行动去实现它。
+
 ## 一个解答
 在 Telos Canton 成立之前，社区成员为我们的节点命名提出了很多建议。其中一个建议是——区块链是无国界的，是属于全人类的，不必特显地域。无疑这个观点是很有道理的，但最终我们还是选择了“Canton”（广州）作为节点的名字，有如下理由：
 1. 便于当地和就近地区用户识别，更好地提供服务和支持；
 2. 多元的文化交融有利于激发创造力，也有助于人们了解这个丰富多彩的世界；
 3. 从本土文化中发掘对世界有益的成份，用传统的优良思想结合区块链的理念，能更好的传播和推广。
 4. 以“Canton”代替官方的“GuangZhou”，除了因为“Canton”这个名称具有悠久的历史传承外，更希望藉此展示“粤文化”的独特而美丽的一面。
-
-## 一个问题
-我们经常思考一个问题，为什么我们有如此丰富和优秀的精神内核，但近代给世界带来的贡献却非常有限，而现代很多方面却给世界留下了诸多不良的印象？当然，历史和现实是复杂的，事物有它的多面性（成就与问题并存），发展有其阶段性（存在不可避免的问题），不是三言两语所能道清。如果区块链的技术和治理模式能使这个世界更加公平和富有创造力，那么它能否帮助我们重拾这些优良的传统，除去不良的包袱，为这个世界作出更多更大的贡献？但如果我们只停留在思索的阶段，就永远不会有答案，所以，Telos Canton 希望能通过行动去实现它。
 
 希望通过上述内容能让你更多的了解 Telos Canton。  
 感谢您的投票：teloscantons  
