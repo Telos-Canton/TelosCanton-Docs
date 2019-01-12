@@ -4,27 +4,51 @@ Telos Canton would like to introduce the spiritual core of Canton (which may hav
 *We updated our website with these 7 pictures: https://www.teloscanton.io
 
 ## The world is for all
+
+![](.\images\Canton\The_World_Is_For_All_天下为公.jpg)
+
 "The world is for all" is the philosophy from Confucianism and now has been given new meaning in the era of the early 20th century. The world is a world of all people. This is the awakening and a spiritual revival. This idea once resonated with a group of insightful Chinese people who later established the first democratic republic in Asia. At the same time, it also fits well with the blockchain spirit.
 
 ## 2. Spirit lives forever
+
+![](.\images\Canton\Huanghuagang_Mausoleum_of_Martyrs_黄花岗七十二烈士墓.jpg)
+
 This place is probably the only Statue of Liberty in China in public places. The 72 martyrs sacrificed their young lives to national freedom, and their stories and spirit will last forever. After that, many Chinese have fought for freedom together with others around the world, although this part of history may have been forgotten by many. In some sense, we are continuing this unfinished journey with the people who guard the freedom around the world in the blockchain world.
 
 ## 3. Sino-Western fusion
+
+![](.\images\Canton\Sino-Western_Fusion_中西交融.jpg)
+
 We must first recognize our backwardness and shortcomings in order to better learn and absorb the elements of advanced civilization and to accommodate people from all over the world. Just as EOSIO's governance competition and institutional integration, only by establishing a system that can constantly correct itself can we achieve true prosperity.
 
 ## 4. The heart of the craftsman
+
+![](.\images\Canton\Heart_of_Traditional_Craftsmen_传统匠人之心.jpg)
+
 Focusing on one thing, one mind, one action, day after day, repeat and repeat thousands of times, only for the pursuit of progress bit by bit. This is the spirit and the heart of the craftsman. This spirit applies to all areas, including the building of an excellent public blockchain network.
 
-## 5. Literary Family
+## 5. Scholarly Family
+
+![](.\images\Canton\Scholarly_Family_书香门弟.jpg)
+
 Emphasizing education has always been our tradition. It is a universal belief that education can change people's destiny. Developers and community members need to constantly learn and build a platform that helps people systematically and continuously learn all kinds of knowledge about Telos. It is our important task.
 
 ## 6. Five Goats with Grain
+
+![](.\images\Canton\The_statue_of_five_goats_in_Catnon_五羊雕像.jpg)
+
 This legendary statue symbolizes a good harvest, peace, hard work and yearning for a better life. It reminds us of the ultimate purpose of our ongoing efforts - human happiness. Institutional design, technological research, applied innovation, and everything in the blockchain are just tools but not ultimate goals. We always remind ourselves that human happiness is our pursuit. We will always move toward this goal. Do not focus solely on the means and overlook the purpose. Do not deviate from the direction.
 
 ## 7. Kapok
+
+![](.\images\Canton\City_Flower_of_Canton_广州市花.jpg)
+
 Independence, pragmatism, dedication, perseverance, and integrity - the spirit of Kapok symbolizes our adherence to quality. No matter how advanced technology and systems are, they are run by people. We pursue the use of technology to minimize the impact of people, but people are always the most important influence. Therefore, we must commit to our words and deeds and strictly abide by it in order to effectively maintain the security and stability of the public blockchain network.
 
 ## One explanation
+
+![](.\images\telos-canton-logo-slogan-200X200.png)
+
 Before the establishment of Telos Canton, community members made a lot of suggestions for the naming of our BP. One of the suggestions is that the blockchain is borderless and belongs to all mankind. It does not have to be geographically distinctive. Undoubtedly this view is very reasonable, but in the end we chose "Canton" (Guangzhou) for the following reasons:
 1. Easier to be identified by  local and so as to better our service and support;
 2. Diversified cultural integration stimulates creativity and helps people understand this colorful world;
@@ -32,6 +56,9 @@ Before the establishment of Telos Canton, community members made a lot of sugges
 4. Replacing the official "GuangZhou" with "Canton". In addition to the long history of the name "Canton", we hope to show the unique and beautiful side of "Yue culture"(Different from Mandarin).
 
 ## One question
+
+![](.\images\Libra.Vote-Logo-200X200.png)
+
 We often think about a question: despite the rich and good spiritual core we have always possessed, why did we only make relatively limited contributions to the world during the time of modern Chinese history, and yet have left some bad impressions on the world during the contemporary time? Of course, history and reality are complex, things have its multifaceted nature (achievement and problems coexist), and development has its own stage (there are inevitable problems), which can not be simply explained in a few words.
 However, if the technology and governance model of the blockchain can make the world more fair and creative, can it help us to regain the fine traditions, remove bad burdens, and make more and greater contributions to the world? Telos Canton hopes to achieve this through action.
 
@@ -59,7 +86,7 @@ Telos Canton 将通过7张来自广州的照片，尝试让您了解广州（可
 ## 4. 匠人之心
 日复一日的磨练，全身心专注于一件事，一门心思，一个动作，千次万次的重复又重复，只为追求一滴一滴的进步，这就是匠人精神，匠人之心。这种精神适用于所有领域，包括打造一条优秀的公链。
 
-## 5. 书香门弟
+## 5. 书香门第
 重视教育一直是我们的传统，教育能改变人命运是放之四海佳准的道理。开发者和社区成员都需要不断学习，建立一个套帮助人们系统地持续学习 Telos 各类知识的平台，是我们的重要任务。
 
 ## 6. 五羊含穗
