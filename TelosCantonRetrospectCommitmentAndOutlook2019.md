@@ -8,7 +8,7 @@ Looking back over the past six months, it has been a great honor and encourageme
 4. TCDC (Telos Chinese Developer Community): Telos Chinese developer community is a community where developers exchange development materials, organize development training, and strive to get support from the Telos Foundation.
 5. TKB (Telos Knowledge Base): Systematically collect and organize Telos knowledge and build a knowledge base in Chinese and English. And set up an FAQ section to enable convenient access of the information.
 6. TWT (Telos World Tree): A theme tree created by Telos Canton. It is a huge oak tree that symbolizes the operation of the Telos world, from which many interesting elements and stories can be discovered. Since it will grow very large, we will consider using the form of a collage. In addition, we will also try to create together with artists of different cultural backgrounds and styles. We will also design and make a few accessories such as paper lanterns, desk lamps, keychains, badges, stickers, pins, caps, T-shirts and so on.
-7. TPC (Telos Philosophy Society): The Telos Philosophy Club welcomes enthusiasts’ discussions on organizational philosophy, decentralization, and governance and token economic models. In addition, we believe that the study of "natural person on the chain" is very important, so we will make active attempts in this regard.
+7. TPS (Telos Philosophy Society): The Telos Philosophy Club welcomes enthusiasts’ discussions on organizational philosophy, decentralization, and governance and token economic models. In addition, we believe that the study of "natural person on the chain" is very important, so we will make active attempts in this regard.
 8. GSC (The Good Grants Selection Committee): A DApp rewards program initiated by GoolBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
 9. Assist in registering TLOS to the China cryptocurrency platform: such as "Feixiaohao", "Biniuniu", "Mytoken" and other China mainstream cryptocurrency platform. Please note that these platforms only provide market information on crypto currencies but not trading services.
 
@@ -38,7 +38,7 @@ https://www.teloscanton.io
 
 6. TWT（Telos World Tree）：Telos 世界树由 Telos Canton 发起的主题创作，它是一棵象征 Telos 世界运转的大橡树，从中能挖掘出许多非常有意思的元素和故事。由于它将来会生长的非常巨大，所以我们会考虑采用拼画的形式展示。另外，我们也会尝试和不同文化背景和风格的艺术家联合创造。还会尝试制造一些 Telos 的周边产品，比如：“Telos纸扎灯笼”，“Telos夜灯”，“Telos钥匙扣”、“Telos徽章”、“Telos胸针”、“Telos帖纸”、“Telos胸针”、“Telos帽子”和“Telos T恤”等等。
 
-7. TPC（Telos Philosophy Society）：Telos 哲学社，组织哲学和去中心化研究爱好者交流讨论，对链上治理和通证经济模型进行有益的探讨。另外，我们认为对“自然人上链”的研究和实践非常重要，而“自然人投票权重”或“自然人治理节点”更是一个值得尝试的治理模式，因此 Telos Canton 在这些方面都会进行积极推动。
+7. TPS（Telos Philosophy Society）：Telos 哲学社，组织哲学和去中心化研究爱好者交流讨论，对链上治理和通证经济模型进行有益的探讨。另外，我们认为对“自然人上链”的研究和实践非常重要，而“自然人投票权重”或“自然人治理节点”更是一个值得尝试的治理模式，因此 Telos Canton 在这些方面都会进行积极推动。
 
 8. GSC（The GoodGrants Selection Committee）：由 GoolBlock 发起的 DApp 奖励计划。Telos Canton 作为其选拨委员会成员，争取能在2019年成功推荐一至两个有潜力的 DApp 获取免费系统资源支持。
 
