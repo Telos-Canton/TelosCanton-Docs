@@ -1,19 +1,42 @@
 # Telos Canton Retrospect, Commitment, and Outlook 2019
 
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Commitment/When_The_Tree_Was_New.jpg)
+
 Looking back over the past six months, it has been a great honor and encouragement to have become a Telos BP candidate, nevertheless we still have a long way to go in this journey. It takes sustained and positive contribution to earn the votes in the interactive voting process. So Telos Canton has highlighted some important work for this year as our commitment to the voters: 
 
 1. BPC (Block Producer Candidate): When serving as a Block Producer, we will take full responsibilities and fulfill the obligations of a Block Producer and participate in all governance work. When being a standby BP, we will witness and oversee all governance work and keep the voters updated in a timely manner. Set up a "Voter's Mailbox" to receive voter's suggestions and requests, and communicate them to other BP and Telos Foundation, and follow up the progress and results.
+
 2. BTCC (Bridge to Chinese Community): A bridge that helps all Telos BPs and DApps enter the Chinese community. Including Chinese translation, content posting, staff recruitment, event organization, Chinese community maintenance, customer service and so on. BTCC will organize WeChat group events on a regular basis, inviting Telos BPs and DApp teams to interact with the Chinese community share knowledge and ideas.
+
 3. TCTT (Telos Chinese Translation Team): Telos Chinese translation team will translates important documents related to Telos into Chinese.
+
+   ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCTT_Logo_200X200.png)
+
 4. TCDC (Telos Chinese Developer Community): Telos Chinese developer community is a community where developers exchange development materials, organize development training, and strive to get support from the Telos Foundation.
+
+   ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCDC_Logo_200X200.png)
+
 5. TKB (Telos Knowledge Base): To systematically collect and organize Telos knowledge and build a knowledge base in Chinese and English. And to set up a Community FAQ section to enable convenient access of the information.
-6. TWT (Telos World Tree): A theme tree created by Telos Canton. It is a huge oak tree that symbolizes the operation of the Telos world, from which many interesting elements and stories can be discovered. Since it will grow very large, we will consider using the form of a collage. In addition, we will also try to create together with artists of different cultural backgrounds and styles. We will also design and make a few accessories such as paper lanterns, desk lamps, keychains, badges, stickers, pins, caps, T-shirts and so on.
+
+6. TWT ([Telos World Tree](https://www.teloscanton.io/en/main-tree/)): A theme tree created by Telos Canton. It is a huge oak tree that symbolizes the operation of the Telos world, from which many interesting elements and stories can be discovered. Since it will grow very large, we will consider using the form of a collage. In addition, we will also try to create together with artists of different cultural backgrounds and styles. We will also design and make a few accessories such as paper lanterns, desk lamps, keychains, badges, stickers, pins, caps, T-shirts and so on.
+
+   ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TWT_Logo_200X200.png)
+
 7. TPS (Telos Philosophy Society): The Telos Philosophy Club welcomes enthusiasts’ discussions on organizational philosophy, decentralization, and governance and token economic models. In addition, we believe that the study of "natural person on the chain" is very important, so we will make active attempts in this regard.
-8. GSC (The Good Grants Selection Committee): A DApp rewards program initiated by GoolBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
+
+   ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
+
+8. GSC ([The Good Grants Selection Committee](https://goodblock.io/goodgrant)): A DApp rewards program initiated by GoolBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
+
+   ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Commitment/GoodGrant_Logo_200X200.png)
+
 9. Assist in registering TLOS to the China cryptocurrency platform: such as "Feixiaohao", "Biniuniu", "Mytoken" and other China mainstream cryptocurrency platform. Please note that these platforms only provide market information on crypto currencies but not trading services.
 
 Voters are welcome to make suggestions for Telos Canton's commitments. We will adhere to the principle of “Fair, Justice, Open” and accept long-term supervision of voters.  
 In addition to the above-mentioned community work, Telos Canton's autonomous organization management DApp Libra.Vote is a top priority.  
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Libra.Vote-Logo-200X200.png)
+
 In the face of these tasks, hard work is what we will offer to 2019. Let’s get the balls rolling!
 
 Thank you for voting for: teloscantons  
