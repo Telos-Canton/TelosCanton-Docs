@@ -28,11 +28,11 @@ Looking back over the past six months, it has been a great honor and encourageme
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TWT_Logo_200X200.png)
 
-7. TPS (Telos Philosophy Society): The Telos Philosophy Club welcomes enthusiasts’ discussions on organizational philosophy, decentralization, and governance and token economic models. In addition, we believe that the study of "natural person on the chain" is very important, so we will make active attempts in this regard.
+7. TPS (Telos Philosophy Society): The Telos Philosophy Society welcomes enthusiasts to have discussions on philosophy, decentralization, governance and token economic models. In addition, we believe that the study of "registering natural person on blockchain" is very important, under the premise of ensuring privacy, ownership and usage of personal data, "registering natural person on blockchain" has positive effects on restricting "whales" (effectively preventing 'Sybil Attack') and expanding blockchain applications. And "natural person voting weight" and "natural person governance node" are a governance model worth exploring, so Telos Canton will actively research in these areas.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
 
-8. GSC ([The Good Grants Selection Committee](https://goodblock.io/goodgrant)): A DApp rewards program initiated by GoolBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
+8. GSC ([The Good Grants Selection Committee](https://goodblock.io/goodgrant)): A DApp rewards program initiated by GoodBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Commitment/GoodGrant_Logo_200X200.png)
 
@@ -82,7 +82,7 @@ https://www.teloscanton.io
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TWT_Logo_200X200.png)
 
-7. TPS（Telos Philosophy Society）：Telos 哲学社，组织哲学和去中心化研究爱好者交流讨论，对链上治理和通证经济模型进行有益的探讨。另外，我们认为对“自然人上链”的研究和实践非常重要，在充分保证个人私隐和自然人完全掌握个人信息所有权及使用权的前提下，“自然人上链”对制约“巨鲸”（有效防止‘女巫攻击 Sybil Attack’）和扩大区块链应用都有积极意义。而“自然人投票权重”或“自然人治理节点”更是一个值得尝试的治理模式，因此 Telos Canton 在这些方面都会进行积极推动。
+7. TPS（Telos Philosophy Society）：Telos 哲学社，组织哲学和去中心化研究爱好者交流讨论，对链上治理和通证经济模型进行有益的探讨。另外，我们认为对“自然人上链”的研究和实践非常重要，在充分保证个人私隐和自然人完全掌握个人信息所有权及使用权的前提下，“自然人上链”对制约“巨鲸”（有效防止‘女巫攻击 Sybil Attack’）和扩大区块链应用都有积极意义。而“自然人投票权重”或“自然人治理节点”更是一个值得探讨的治理模型，因此 Telos Canton 在这些领域都会积极地进行研究。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
 
