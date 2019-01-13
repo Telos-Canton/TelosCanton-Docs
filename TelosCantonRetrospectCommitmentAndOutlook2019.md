@@ -6,11 +6,11 @@ Looking back over the past six months, it has been a great honor and encourageme
 
 1. **BPC (Block Producer Candidate)**: Ensure the performance, stability, and security of the BP servers at all times. When serving as a Block Producer, we will take full responsibilities and fulfill the obligations of a Block Producer and participate in all governance work. When being a standby BP, we will witness and oversee all governance work and keep the voters updated in a timely manner. Set up a "**Voter's Mailbox**" to receive voter's suggestions and requests, and communicate them to other BP and Telos Foundation, and follow up the progress and results.
 
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCTT_Logo_200X200.png)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/BPC_Logo_200X200.png)
 
 2. **BTCC (Bridge to Chinese Community)**: A bridge that helps all Telos BPs and DApps enter the Chinese community. Including Chinese translation, content posting, staff recruitment, event organization, Chinese community maintenance, customer service and so on. BTCC will organize **WeChat group events** on a regular basis, inviting Telos BPs and DApp teams to interact with the Chinese community share knowledge and ideas.
 
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCTT_Logo_200X200.png)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/BTCC_Logo_200X200.png)
 
 3. TCTT (Telos Chinese Translation Team): Telos Chinese translation team will translates important documents related to Telos into Chinese.
 
@@ -60,11 +60,11 @@ https://www.teloscanton.io
 
 1. **BPC（Block Producer Candidate）**：在任何时候都确保节点服务器的性能、稳定和安全性。在当选期间，全面承担生产节点的所有责任，全力履行生产节点的义务，参与所有治理工作；在预备节点期间，积极见证和监督所有治理程序，及时向选民汇报最新情况。建立“**选民信箱**”，认真对待选民的每一个诉求和建议，收集整理向其他生产节点和基金会反馈，并跟进处理进度和结果。
 
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCTT_Logo_200X200.png)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/BPC_Logo_200X200.png)
 
 2. **BTCC（Bridge to Chinese Community）**：中文社区之桥，帮助所有 Telos 的 BP 和 DApp 进入中文社区，包括中文翻译、内容发布、人员招聘、活动组织、中文社区维护和客户服务等。BTCC将定期举办**微信群分享活动**，邀请 Telos BP 和 DApp 团队与中文社区进行互动交流，传播知识和理念。
 
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCTT_Logo_200X200.png)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/BTCC_Logo_200X200.png)
 
 3. TCTT（Telos Chinese Translation Team）：Telos 中文翻译组，将 Telos 相关的重要文档翻译成中文。
 
