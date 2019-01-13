@@ -1,4 +1,4 @@
-# Telos Canton Retrospect, Promise, and Outlook 2019
+# Telos Canton Review, Promise, and Plans 2019
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Commitment/When_The_Tree_Was_New.jpg)
 
