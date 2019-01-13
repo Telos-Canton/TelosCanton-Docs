@@ -1,6 +1,6 @@
 # Telos Canton Review, Promise, and Plans 2019
 
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Commitment/When_The_Tree_Was_New.jpg)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/When_The_Tree_Was_New.jpg)
 
 Looking back over the past six months, it has been a great honor and encouragement to have become a Telos BP candidate, nevertheless we still have a long way to go in this journey. It takes sustained and positive contribution to earn the votes in the interactive voting process. So Telos Canton has highlighted some important work for this year as our commitment to the voters: 
 
@@ -34,7 +34,7 @@ Looking back over the past six months, it has been a great honor and encourageme
 
 8. GSC ([The Good Grants Selection Committee](https://goodblock.io/goodgrant)): A DApp rewards program initiated by GoodBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
 
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Commitment/GoodGrant_Logo_200X200.png)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/GoodGrant_Logo_200X200.png)
 
 9. Assist in registering TLOS to the China cryptocurrency platform: such as "Feixiaohao", "Biniuniu", "Mytoken" and other China mainstream cryptocurrency platform. Please note that these platforms only provide market information on crypto currencies but not trading services.
 
@@ -88,7 +88,7 @@ https://www.teloscanton.io
 
 8. GSC（The GoodGrants Selection Committee）：由 GoolBlock 发起的 DApp 奖励计划。Telos Canton 作为其选拨委员会成员，争取能在2019年成功推荐一至两个有潜力的 DApp 获取免费系统资源支持。
 
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Commitment/GoodGrant_Logo_200X200.png)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/GoodGrant_Logo_200X200.png)
 
 9. 协助登记TLOS到中文行情平台：如“非小号（Feixiaohao）”、“币牛牛（Biniuniu）”、“Mytoken”等流量较大的主流中文行情平台，它们纯粹展示行情信息，不提供交易服务。
 
