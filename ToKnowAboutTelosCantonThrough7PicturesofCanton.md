@@ -21,7 +21,7 @@ This place is probably the only Statue of Liberty in China in public places. The
 
 We must first recognize our backwardness and shortcomings in order to better learn and absorb the elements of advanced civilization and to accommodate people from all over the world. Just as EOSIO's governance competition and institutional integration, only by establishing a system that can constantly correct itself can we achieve true prosperity.
 
-## 4. The Heart of  Traditional Craftsman
+## 4. The Heart of  the Craftsman
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/Heart_of_Traditional_Craftsmen_传统匠人之心.jpg)
 
