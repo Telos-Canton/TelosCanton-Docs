@@ -30,7 +30,7 @@ Download the latest version of Telos World Tree: https://www.teloscanton.io/en/m
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
 
-7. **TCDC (Telos Chinese Developer Community)**: As the Chinese developers generally poor standard of English and popularity of Telos's DApp development needs to be improved, in order to enable more Chinese developers to join us, the establishment of "Telos Chinese developer community" is very necessary. Telos Canton will work with other Chinese BPs and community members to form this community, editing, translating, writing and exchange information on the development, organize development training, and strive to get support from the Telos Foundation. In addition, Telos Canton believes that developers should be encouraged to develop DApps that are positive for society and that create real value.
+7. **TCDC (Telos Chinese Developer Community)**: Telos Canton hopes more and more Chinese developers will join the Telos DApp development. Due to the fact that many Chinese developers have relatively lower English proficiency, it is necessary to establish the "Telos Chinese Developer Community" in order to enable more developers to join. Telos Canton will work with other Chinese BPs and community members to form this community, editing, translating, writing and exchange information on the development, organize development training, and strive to get support from the Telos Foundation. In addition, Telos Canton believes that developers should be encouraged to develop DApps that are beneficial for society and that create real value.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCDC_Logo_200X200.png)
 
@@ -88,11 +88,11 @@ https://www.teloscanton.io
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
 
-7. **TCDC（Telos Chinese Developer Community）**：由于中国的开发者普遍英语水准欠佳，而 Telos DApp 的开发热度有待提高，为了使更多开发者加入到 Telos 的 DApp 开发队伍，成立“Telos 华语开发者社区”非常有必要。Telos Canton 将与其他华语节点以及社区成员携手组建这个开发者社区，整理、翻译、撰写和交流开发资料，组织开发培训，并争取得到基金会的支持。另外，Telos Canton 认为应该向开发者倡导开发对社会有积极意义并能创造实质价值的 DApp。
+7. **TCDC（Telos Chinese Developer Community）**：Telos DApp 的开发热度有待提高，而中国开发者的普遍英语水准欠佳，为了使更多中国开发者加入到 Telos 的 DApp 开发队伍，成立“Telos 华语开发者社区”非常有必要。Telos Canton 将与其他华语节点以及社区成员携手组建这个开发者社区，整理、翻译、撰写和交流开发资料，组织开发培训，并争取得到基金会的支持。另外，Telos Canton 认为应该向开发者倡导开发对社会有积极意义并能创造实际价值的区块链应用。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCDC_Logo_200X200.png)
 
-8. **GSC（[The GoodGrants Selection Committee](https://goodblock.io/goodgrant)）**：由 GoolBlock 发起的 DApp 奖励计划。Telos Canton 作为其选拨委员会成员，争取能在2019年成功推荐一至两个有潜力的 DApp 获取免费系统资源支持。
+8. **GSC（[The GoodGrants Selection Committee](https://goodblock.io/goodgrant)）**：由 GoolBlock 发起的潜力 DApp 支持计划。Telos Canton 作为其选拨委员会成员，争取能在2019年成功推荐一至两个有潜力的 DApp 获取免费系统资源支持。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/GoodGrant_Logo_200X200.png)
 
