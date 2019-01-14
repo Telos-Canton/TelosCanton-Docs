@@ -1,6 +1,6 @@
 # To Know About Telos Canton Through 7 Pictures of Canton
 
-Telos Canton would like to introduce the spiritual core of Canton (which may have been forgotten) through 7 photos from Canton. There are important elements that connect Canton to the world and may present a China that is different from your impression. The pictures also showcases how they relate to the blockchain world.
+Telos Canton would like to introduce the spiritual core of Canton (which may have been forgotten) through 7 photos from Canton. There are important elements that connect Canton to the world and may present a China that is different from your impression. The pictures also showcases how they relate to the blockchain world.  
 *We updated our website with these 7 pictures: https://www.teloscanton.io
 
 ## The world is for all
@@ -75,24 +75,45 @@ Telos Canton 將通過7張來自廣州的照片，嘗試讓您瞭解廣州（可
 *我們以這7張照片更新了官網：https://www.teloscanton.io
 
 ## 1. 天下為公
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/The_World_Is_For_All_%E5%A4%A9%E4%B8%8B%E4%B8%BA%E5%85%AC.jpg)
+
 “天下為公”這個來自儒家的傳統思想，在20世紀初的中國被賦予了另一層時代的意義——世界是所有人的世界，這是一種覺醒，同時也是一種精神回溯。這個思想曾經號召了一群中國的有識之士，建立了亞洲第一個民主共和國。同時，它也和區塊鏈精神非常契合。
 
 ## 2. 浩氣長存
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/Huanghuagang_Mausoleum_of_Martyrs_黄花岗七十二烈士墓.jpg)
+
 這個地方很可能是中國在公共場所唯一僅有的自由女神像。72位烈士為民族自由付出了年輕的生命，他們的故事和精神將永存於天下之間。而在他們之後的中國，曾與世界其他守護自由的人們一同為自由而戰，但這段歷史可能已經被很多人所遺忘。在某種意義上，我們在區塊鏈世界中也正和世界各地守護自由的人們繼續這段尚未完成的旅程。
 
 ## 3. 中西交融
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/Sino-Western_Fusion_中西交融.jpg)
+
 我們要先承認自己的落後和不足，才能更好地學習和吸收先進文明的元素，並包容來自各地的人們。正如EOSIO的治理競爭和制度交融，只有建立出能不斷自我修正系統，才能走向真正的繁榮。
 
 ## 4. 匠人之心
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/Heart_of_Traditional_Craftsmen_传统匠人之心.jpg)
+
 日復一日的磨練，全身心專注於一件事，一門心思，一個動作，千次萬次的重複又重複，只為追求一滴一滴的進步，這就是匠人精神，匠人之心。這種精神適用於所有領域，包括打造一條優秀的公鏈。
 
 ## 5. 書香門第
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/Scholarly_Family_书香门弟.jpg)
+
 重視教育一直是我們的傳統，教育能改變人命運是放之四海佳准的道理。開發者和社區成員都需要不斷學習，建立一個套幫助人們系統地持續學習 Telos 各類知識的平臺，是我們的重要任務。
 
 ## 6. 五羊含穗
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/The_statue_of_five_goats_in_Catnon_五羊雕像.jpg)
+
 這個帶有傳說的雕像象徵豐收、祥和、勤勞和對美好生活的嚮往。它提醒我們，我們一直努力的最終目的是什麼——人的幸福感。制度設計、技術研究、應用創新和區塊鏈的一切，它們只是手段而不是最終的目的。我們時刻提醒自己，人的幸福才是我們的追求，永遠朝著這個目標前行，不要過於追求手段而忽視目的，不要偏離方向。
 
 ## 7. 木棉花開
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/City_Flower_of_Canton_广州市花.jpg)
+
 獨立、務實、奉獻、堅毅、頂天立地——木棉花象徵的精神，也是我們堅守品質。無論技術和制度如何先進，它都是由人去運行的，我們追求通過技術儘量降低人的影響，但人永遠都是最重要的影響。所以，我們必須要有對自己的言行作出承諾，並嚴格遵守它，才能有效維護公鏈的安全和穩定。
 
 ## 一個問題
