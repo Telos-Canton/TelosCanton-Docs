@@ -8,11 +8,12 @@ Looking back over the past six months, it has been a great honor and encourageme
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Telos_Logo_200X200.png)
 
-2. TKB (Telos Knowledge Base): To systematically collect and organize Telos knowledge and build a knowledge base in Chinese and English. And to set up a Community FAQ section to enable convenient access of the information.
+2. **TKB (Telos Knowledge Base)**: To systematically collect and organize Telos knowledge and build a knowledge base in Chinese and English. And to set up a **Community FAQ section** to enable convenient access of the information.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TKB_Logo_200X200.png)
 
-3. TWT ([Telos World Tree](https://www.teloscanton.io/en/main-tree/)): A theme tree created by Telos Canton. It is a huge oak tree that symbolizes the operation of the Telos world, from which many interesting elements and stories can be discovered. Since it will grow very large, we will consider using the form of a collage. In addition, we will also try to create together with artists of different cultural backgrounds and styles. We will also design and make a few accessories such as paper lanterns, desk lamps, keychains, badges, stickers, pins, caps, T-shirts and so on.
+3. **TWT ([Telos World Tree](https://www.teloscanton.io/en/main-tree/))**: A theme tree created by Telos Canton. It is a huge oak tree that symbolizes the operation of the Telos world, from which many interesting elements and stories can be discovered. Since it will grow very large, we will consider using the form of a collage. In addition, we will also try to create together with artists of different cultural backgrounds and styles. We will also design and make a few accessories such as paper lanterns, desk lamps, keychains, badges, pins, stickers, caps, T-shirts and so on.  
+Download the latest version of Telos World Tree: https://www.teloscanton.io/en/main-tree/
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TWT_Logo_200X200.png)
 
@@ -20,17 +21,17 @@ Looking back over the past six months, it has been a great honor and encourageme
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/BTCC_Logo_200X200.png)
 
-5. TCTT (Telos Chinese Translation Team): Telos Chinese translation team will translates important documents related to Telos into Chinese.
+5. **TCTT (Telos Chinese Translation Team)**: Telos Chinese translation team will translates important documents related to Telos into Chinese.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCTT_Logo_200X200.png)
 
-6. TCDC (Telos Chinese Developer Community): Telos Chinese developer community is a community where developers exchange development materials, organize development training, and strive to get support from the Telos Foundation.
-
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCDC_Logo_200X200.png)
-
-7. TPS (Telos Philosophy Society): The Telos Philosophy Society welcomes enthusiasts to have discussions on philosophy, decentralization, governance and token economic models. Telos Canton believes that the study of "registering natural person on blockchain" is very important, under the premise of ensuring privacy, ownership and usage of personal data, "registering natural person on blockchain" has positive effects on restricting "whales" (effectively preventing 'Sybil Attack') and expanding blockchain applications. In addition, "natural person voting weight" and "natural person governance node" are a governance model worth exploring, so Telos Canton will actively research in these areas.
+6. **TPS (Telos Philosophy Society)**: The Telos Philosophy Society welcomes enthusiasts to have discussions on philosophy, decentralization, governance and token economic models. Telos Canton believes that the study of "registering natural person on blockchain" is very important, under the premise of ensuring privacy, ownership and usage of personal data, "registering natural person on blockchain" has positive effects on restricting "whales" (effectively preventing 'Sybil Attack') and expanding blockchain applications. In addition, "natural person voting weight" and "natural person governance node" are a governance model worth exploring, so Telos Canton will actively research in these areas.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
+
+7. **TCDC (Telos Chinese Developer Community)**: Telos Chinese developer community is a community where developers exchange development materials, organize development training, and strive to get support from the Telos Foundation.
+
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCDC_Logo_200X200.png)
 
 8. GSC ([The Good Grants Selection Committee](https://goodblock.io/goodgrant)): A DApp rewards program initiated by GoodBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
 
@@ -64,11 +65,12 @@ https://www.teloscanton.io
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Telos_Logo_200X200.png)
 
-2. TKB（Telos Knowledge Base）：系统地收集和整理 Telos 的相关知识，建立一个中英文对照的知识库。并整理社区成员的常见问题，便于在社区讨论中可以查询和引用。
+2. **TKB（Telos Knowledge Base）**：系统地收集和整理 Telos 的相关知识，建立一个中英文对照的知识库。并整理社区成员的**常见问题**，便于在社区讨论中随时查询和引用。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TKB_Logo_200X200.png)
 
-3. TWT（Telos World Tree）：Telos 世界树由 Telos Canton 发起的主题创作，它是一棵象征 Telos 世界运转的大橡树，从中能挖掘出许多非常有意思的元素和故事。由于它将来会生长的非常巨大，所以我们会考虑采用拼画的形式展示。另外，我们也会尝试和不同文化背景和风格的艺术家联合创造。还会尝试制造一些 Telos 的周边产品，比如：“Telos纸扎灯笼”，“Telos夜灯”，“Telos钥匙扣”、“Telos徽章”、“Telos胸针”、“Telos帖纸”、“Telos胸针”、“Telos帽子”和“Telos T恤”等等。
+3. **TWT（[Telos World Tree](https://www.teloscanton.io/en/main-tree/)）**：Telos 世界树由 Telos Canton 发起的主题创作，它是一棵象征 Telos 世界运转的大橡树，从中能挖掘出许多非常有意思的元素和故事。由于它将来会生长的非常巨大，所以我们会考虑采用拼画的形式展示。另外，我们也会尝试和不同文化背景和风格的艺术家联合创造。还会尝试制造一些 **Telos 的周边产品**，比如：“Telos纸扎灯笼”，“Telos夜灯”，“Telos钥匙扣”、“Telos徽章”、“Telos胸针”、“Telos帖纸”、“Telos帽子”和“Telos T恤”等等。  
+下载最新版的 Telos 世界树：[https://www.teloscanton.io/主树/](https://www.teloscanton.io/主树/)
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TWT_Logo_200X200.png)
 
@@ -76,11 +78,11 @@ https://www.teloscanton.io
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/BTCC_Logo_200X200.png)
 
-5. TCTT（Telos Chinese Translation Team）：Telos 中文翻译组，将 Telos 相关的重要文档翻译成中文。
+5. **TCTT（Telos Chinese Translation Team）**：Telos 中文翻译组，将 Telos 相关的重要文档翻译成中文。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCTT_Logo_200X200.png)
 
-6. TPS（Telos Philosophy Society）：Telos 哲学社，组织哲学和去中心化研究爱好者交流讨论，对链上治理和通证经济模型进行有益的探讨。Telos Canton 认为对“自然人上链”的研究和实践非常重要，在充分保证个人私隐和自然人完全掌握个人信息所有权及使用权的前提下，“自然人上链”对制约“巨鲸”（有效防止‘女巫攻击 Sybil Attack’）和扩大区块链应用都有积极意义。而“自然人投票权重”或“自然人治理节点”更是一个值得探讨的治理模型，因此 Telos Canton 在这些领域都会积极地进行研究。
+6. **TPS（Telos Philosophy Society）**：Telos 哲学社，组织哲学和去中心化研究爱好者交流讨论，对链上治理和通证经济模型进行有益的探讨。Telos Canton 认为对“自然人上链”的研究和实践非常重要，在充分保证个人私隐和自然人完全掌握个人信息所有权及使用权的前提下，“自然人上链”对制约“巨鲸”（有效防止‘女巫攻击 Sybil Attack’）和扩大区块链应用都有积极意义。而“自然人投票权重”或“自然人治理节点”更是一个值得探讨的治理模型，因此 Telos Canton 在这些领域都会积极地进行研究。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
 
