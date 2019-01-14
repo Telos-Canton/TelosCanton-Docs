@@ -60,17 +60,18 @@ Before the establishment of Telos Canton, community members made a lot of sugges
 1. Easier to be identified by  local and so as to better our service and support;
 2. Diversified cultural integration stimulates creativity and helps people understand this colorful world;
 3. Exploring the ingredients that are beneficial to the world from the local culture, and combining the traditional good ideas with the concept of blockchain.
-4. Replacing the official "GuangZhou" with "Canton". In addition to the long history of the name "Canton", we hope to show the unique and beautiful side of "Yue culture" (Different from Mandarin).
+4. Replacing the official "GuangZhou" with "Canton". In addition to the long history of the name "Canton", we hope to show the unique and beautiful side of "Yue culture" (different from Mandarin).
 
 We hope the above information will help you to know more about Telos Canton.  
 Thank you for voting for: teloscantons  
+[Telos Canton Review, Promises, and Plans 2019](https://medium.com/@teloscanton/telos-canton-review-promises-and-plans-2019-f96f8c377040)   
 https://www.teloscanton.io
 
 ---
 
 # 透過廣州的七個畫面瞭解 Telos Canton
 
-Telos Canton 將通過7張來自廣州的照片，嘗試讓您瞭解廣州（可能已經被遺忘）的精神內核，其中更有它聯接世界的重要元素，可能會讓你接觸到一個與你印象不一樣的中國。同時也向您展示它們與區塊鏈世界的聯繫。
+Telos Canton 將通過7張來自廣州的照片，嘗試讓您瞭解廣州（可能已經被遺忘）的精神內核，其中更有它聯接世界的重要元素，可能會讓你接觸到一個與你印象有所不同的中國。同時也向您展示它們與區塊鏈世界的聯繫。
 *篇幅關係，這裡不作具體歷史事件和人物的描述。
 *我們以這7張照片更新了官網：https://www.teloscanton.io
 
@@ -128,4 +129,5 @@ Telos Canton 將通過7張來自廣州的照片，嘗試讓您瞭解廣州（可
 
 希望通過上述內容能讓你更多的瞭解 Telos Canton。  
 感謝您的投票：teloscantons  
+[Telos Canton 回顾 / 承诺 / 展望 2019](https://medium.com/@teloscanton/telos-canton-review-promises-and-plans-2019-f96f8c377040)  
 https://www.teloscanton.io
