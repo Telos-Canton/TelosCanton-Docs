@@ -1,6 +1,7 @@
 # Telos Canton Review, Promises, and Plans 2019
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/When_The_Tree_Was_New.jpg)
+*[Click here to see what it looks like when it grows up  :)](https://www.teloscanton.io/en/main-tree/)*
 
 Looking back over the past six months, it has been a great honor and encouragement to have become a Telos BP candidate, nevertheless we still have a long way to go in this journey. It takes sustained and positive contribution to earn the votes in the interactive voting process. So Telos Canton has highlighted some important work for this year as our promises to the voters: 
 
@@ -29,17 +30,17 @@ Download the latest version of Telos World Tree: https://www.teloscanton.io/en/m
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
 
-7. **TCDC (Telos Chinese Developer Community)**: Telos Chinese developer community is a community where developers exchange development materials, organize development training, and strive to get support from the Telos Foundation.
+7. **TCDC (Telos Chinese Developer Community)**: As the Chinese developers generally poor standard of English and popularity of Telos's DApp development needs to be improved, in order to enable more Chinese developers to join us, the establishment of "Telos Chinese developer community" is very necessary. Telos Canton will work with other Chinese BPs and community members to form this community, editing, translating, writing and exchange information on the development, organize development training, and strive to get support from the Telos Foundation. In addition, Telos Canton believes that developers should be encouraged to develop DApps that are positive for society and that create real value.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCDC_Logo_200X200.png)
 
-8. GSC ([The Good Grants Selection Committee](https://goodblock.io/goodgrant)): A DApp rewards program initiated by GoodBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
+8. **GSC ([The Good Grants Selection Committee](https://goodblock.io/goodgrant))**: A DApp rewards program initiated by GoodBlock. As a member of the Election Committee, Telos Canton is striving to successfully recommend one or two potential DApps for free system resources support in 2019.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/GoodGrant_Logo_200X200.png)
 
-9. Assist in registering TLOS to the China cryptocurrency platform: such as "Feixiaohao", "Biniuniu", "Mytoken" and other China mainstream cryptocurrency platform. Please note that these platforms only provide market information on crypto currencies but not trading services.
+9. **Assist in registering TLOS to the China cryptocurrency platform**: such as "Feixiaohao", "Biniuniu", "Mytoken" and other China mainstream cryptocurrency platform. Please note that these platforms only provide market information on crypto currencies but not trading services.
 
-Voters are welcome to make suggestions for Telos Canton's commitments. We will adhere to the principle of “Fair, Justice, Open” and accept long-term supervision of voters.  
+Voters are welcome to make suggestions for Telos Canton's commitments. We will adhere to the principle of “**Fair, Justice, Open**” and accept long-term supervision of voters.  
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
@@ -56,7 +57,8 @@ https://www.teloscanton.io
 
 # Telos Canton 回顾 / 承诺 / 展望 2019
 
-![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/When_The_Tree_Was_New.jpg)
+![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/When_The_Tree_Was_New_CN.jpg)
+*[点击这里看看它长大后的样子 :)](https://www.teloscanton.io/主树/)*
 
 回顾过去半年，相比众多为 Telos 的诞生作出了巨大贡献的节点们，Telos Canton 的工作仍然非常不足。
 然而有赖于大家的支持，Telos Canton 时而能进入到生产节点的行列，既感荣幸又诚惶恐。在动态选举中，如若缺乏持续且积极的贡献，随时都可能失去选民的支持。所以我们定下了未来一年的工作重点，作为 Telos Canton 的参选承诺：
@@ -69,7 +71,7 @@ https://www.teloscanton.io
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TKB_Logo_200X200.png)
 
-3. **TWT（[Telos World Tree](https://www.teloscanton.io/en/main-tree/)）**：Telos 世界树由 Telos Canton 发起的主题创作，它是一棵象征 Telos 世界运转的大橡树，从中能挖掘出许多非常有意思的元素和故事。由于它将来会生长的非常巨大，所以我们会考虑采用拼画的形式展示。另外，我们也会尝试和不同文化背景和风格的艺术家联合创造。还会尝试制造一些 **Telos 的周边产品**，比如：“Telos纸扎灯笼”，“Telos夜灯”，“Telos钥匙扣”、“Telos徽章”、“Telos胸针”、“Telos帖纸”、“Telos帽子”和“Telos T恤”等等。  
+3. **TWT（[Telos World Tree](https://www.teloscanton.io/主树/)）**：Telos 世界树由 Telos Canton 发起的主题创作，它是一棵象征 Telos 世界运转的大橡树，从中能挖掘出许多非常有意思的元素和故事。由于它将来会生长的非常巨大，所以我们会考虑采用拼画的形式展示。另外，我们也会尝试和不同文化背景和风格的艺术家联合创造。还会尝试制造一些 **Telos 的周边产品**，比如：“Telos纸扎灯笼”，“Telos夜灯”，“Telos钥匙扣”、“Telos徽章”、“Telos胸针”、“Telos帖纸”、“Telos帽子”和“Telos T恤”等等。  
 下载最新版的 Telos 世界树：[https://www.teloscanton.io/主树/](https://www.teloscanton.io/主树/)
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TWT_Logo_200X200.png)
@@ -86,17 +88,17 @@ https://www.teloscanton.io
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TPS_Logo_200X200.png)
 
-7. TCDC（Telos Chinese Developer Community）：Telos Canton 将与其他华语节点以及社区成员一同携手组建“Telos 华语开发者社区”，整理、翻译、撰写和交流开发资料，组织开发培训，争取得到基金会的支持。
+7. **TCDC（Telos Chinese Developer Community）**：由于中国的开发者普遍英语水准欠佳，而 Telos DApp 的开发热度有待提高，为了使更多开发者加入到 Telos 的 DApp 开发队伍，成立“Telos 华语开发者社区”非常有必要。Telos Canton 将与其他华语节点以及社区成员携手组建这个开发者社区，整理、翻译、撰写和交流开发资料，组织开发培训，并争取得到基金会的支持。另外，Telos Canton 认为应该向开发者倡导开发对社会有积极意义并能创造实质价值的 DApp。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/TCDC_Logo_200X200.png)
 
-8. GSC（The GoodGrants Selection Committee）：由 GoolBlock 发起的 DApp 奖励计划。Telos Canton 作为其选拨委员会成员，争取能在2019年成功推荐一至两个有潜力的 DApp 获取免费系统资源支持。
+8. **GSC（[The GoodGrants Selection Committee](https://goodblock.io/goodgrant)）**：由 GoolBlock 发起的 DApp 奖励计划。Telos Canton 作为其选拨委员会成员，争取能在2019年成功推荐一至两个有潜力的 DApp 获取免费系统资源支持。
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Promise/GoodGrant_Logo_200X200.png)
 
-9. 协助登记TLOS到中文行情平台：如“非小号（Feixiaohao）”、“币牛牛（Biniuniu）”、“Mytoken”等流量较大的主流中文行情平台，它们纯粹展示行情信息，不提供交易服务。
+9. **协助登记TLOS到中文行情平台**：如“非小号（Feixiaohao）”、“币牛牛（Biniuniu）”、“Mytoken”等流量较大的主流中文行情平台，它们纯粹展示行情信息，不提供交易服务。
 
-欢迎选民们对 Telos Canton 的竞选承诺提出建议，我们将坚守“公平、公正、公开”的原则，接受选民的长期监督。 
+欢迎选民们对 Telos Canton 的竞选承诺提出建议，我们将坚守“**公平、公正、公开**”的原则，接受选民的长期监督。 
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
