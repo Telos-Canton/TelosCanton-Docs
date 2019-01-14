@@ -38,7 +38,7 @@ Download the latest version of Telos World Tree: https://www.teloscanton.io/en/m
 
 8. **GSC ([The Good Grants Selection Committee](https://goodblock.io/goodgrant))**: A potential DApps support program initiated by GoolBlock. As a member of the Selection Committee, Telos Canton would like to recommend and help at least one potential DApp to obtain free Telos network resource support in 2019.
 
-9. **Assist in registering TLOS to the China cryptocurrency platform**: such as "Feixiaohao", "Biniuniu", "Mytoken" and other China mainstream cryptocurrency market platform. Please note that these platforms only provide market information on crypto currencies but not trading services.
+9. **Assist in registering TLOS to the China cryptocurrency market platform**: Such as "Feixiaohao", "Biniuniu", "Mytoken" and other China mainstream cryptocurrency market platform. Please note that these platforms only provide market information on crypto currencies but not trading services.
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/telos-canton-logo-slogan-200X200.png)
 
