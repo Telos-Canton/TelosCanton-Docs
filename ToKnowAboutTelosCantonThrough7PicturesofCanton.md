@@ -64,7 +64,7 @@ Before the establishment of Telos Canton, community members made a lot of sugges
 
 We hope the above information will help you to know more about Telos Canton.  
 Thank you for voting for: teloscantons  
-[Telos Canton Review, Promises, and Plans 2019](https://medium.com/@teloscanton/telos-canton-review-promises-and-plans-2019-f96f8c377040)   
+## [Telos Canton Review, Promises, and Plans 2019](https://medium.com/@teloscanton/telos-canton-review-promises-and-plans-2019-f96f8c377040)   
 https://www.teloscanton.io
 
 ---
@@ -129,5 +129,5 @@ Telos Canton 將通過7張來自廣州的照片，嘗試讓您瞭解廣州（可
 
 希望通過上述內容能讓你更多的瞭解 Telos Canton。  
 感謝您的投票：teloscantons  
-[Telos Canton 回顾 / 承诺 / 展望 2019](https://medium.com/@teloscanton/telos-canton-review-promises-and-plans-2019-f96f8c377040)  
+## [Telos Canton 回顾 / 承诺 / 展望 2019](https://medium.com/@teloscanton/telos-canton-review-promises-and-plans-2019-f96f8c377040)  
 https://www.teloscanton.io
