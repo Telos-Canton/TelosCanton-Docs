@@ -21,7 +21,7 @@ This place is probably the only Statue of Liberty in China in public places. The
 
 We must first recognize our backwardness and shortcomings in order to better learn and absorb the elements of advanced civilization and to accommodate people from all over the world. Just as EOSIO's governance competition and institutional integration, only by establishing a system that can constantly correct itself can we achieve true prosperity.
 
-## 4. The Heart of The Craftsman
+## 4. The Heart of  Traditional Craftsman
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/Heart_of_Traditional_Craftsmen_传统匠人之心.jpg)
 
@@ -33,7 +33,7 @@ Focusing on one thing, one mind, one action, day after day, repeat and repeat th
 
 Emphasizing education has always been our tradition. It is a universal belief that education can change people's destiny. Developers and community members need to constantly learn and build a platform that helps people systematically and continuously learn all kinds of knowledge about Telos. It is our important task.
 
-## 6. Five Goats with Grain
+## 6. Five Goats With Grain
 
 ![](https://raw.githubusercontent.com/Telos-Canton/TelosCanton-Docs/master/images/Canton/The_statue_of_five_goats_in_Catnon_五羊雕像.jpg)
 
