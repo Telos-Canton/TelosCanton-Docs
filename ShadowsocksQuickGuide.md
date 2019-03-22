@@ -4,10 +4,10 @@
 ### 1.1.  基本配置
 a. 解压“[科学上网-解压密码是123.zip](https://github.com/Telos-Canton/TelosCanton-Docs/raw/master/software/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81%E6%98%AF123.zip)”压缩包（注意解压密码是123）；  
 b. Windows 操作系统：复制“Windows+Chrome+Shadowsocks”中的“Shadowsocks”目录到C盘任意目录。点击“Shadowsocks”目录中的“Shadowsocks.exe”启动软件；  
-​    MacOS 操作系统：在菜单栏依次点击“前往”→“应用程序”，将“MacOS+Chrome+Shadowsocks”中的“ShadowsocksX-NG.zip”拖到“应用程序”中，点击启动软件；  
+    MacOS 操作系统：在菜单栏依次点击“前往”→“应用程序”，将“MacOS+Chrome+Shadowsocks”中的“ShadowsocksX-NG.zip”拖到“应用程序”中，点击启动软件；  
 c. Windows 操作系统：在任务栏右下角找到“Shadowsocks”图标（纸飞机），右击选择“服务器”再点击“编辑服务器”；  
 ​    MacOS 操作系统：在顶栏找到“Shadowsocks”图标（纸飞机）， 右击选择“服务器”再点击“编辑服务器”；  
-d. 服务器IP、服务器端口和密码按提供的资料填写，加密方式选择“aes-256-cfb”；  
+d. 服务器IP、服务器端口和密码按提供的资料填写，加密方式选择“aes-256-cfb”；如果获得含有服务器信息的以“ss://”开头的字符串，复制字符串，再右击选择“服务器”再点击“从剪贴板导入URL”，点击“确认”；  
 e. Google 或百度搜索 Chrome 浏览器，下载并安装；  
 f. 点击浏览器右上角选项栏，选择“更多工具”，再点击“扩展程序”，或者在地址栏输入：chrome://extensions/  
 g. 将压缩包解压出的“SwitchyOmega.crx”拖到扩展程序窗口会显示“拖放以安装”，松开鼠标完成安装；  
@@ -33,11 +33,11 @@ b. 遇到无法访问的网站，可尝试从“Auto in China”切换到“Shad
 ## 2. Android
 a. 解压“[科学上网-解压密码是123.zip](https://github.com/Telos-Canton/TelosCanton-Docs/raw/master/software/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91-%E8%A7%A3%E5%8E%8B%E5%AF%86%E7%A0%81%E6%98%AF123.zip)”压缩包（注意解压密码是123）；  
 b. 复制“Android”目录中的“Shadowsocks.apk”到Android手机任意目录（也可以到官网下载，网址如1.2.所示），安装应用；  
-c. 启动 Shadowsocks 应用，按右上角的加号，选择“手动设置”，服务器IP、服务器端口和密码按提供的资料填写，加密方式选择“aes-256-cfb”，点击勾号保存配置；  
+c. 启动 Shadowsocks 应用，按右上角的加号，选择“手动设置”，服务器IP、服务器端口和密码按提供的资料填写，加密方式选择“aes-256-cfb”，点击勾号保存配置；如果获得含有服务器信息的以“ss://”开头的字符串，复制字符串，选择“从剪贴板导入”；   
 d. 选择已保存的服务器，按右下角的“纸飞机”启动代理服务。
 
 ## 3. iOS
-a. 在 Apple Store 安装 Outline 应用；  
+a. 在 Apple Store 安装 Outline 应用；如果已经获得含有服务器信息的以“ss://”开头的字符串，直接跳到步骤；  
 b. 按照上面的指引，根据提供的服务器资料，配置好 Windows 或 MacOS 上的 Shadowsocks 程序；  
 c. 在 Windows 或 MacOS 配置好的 Shadowsocks 程序上选择“服务器”再点击“分享服务器配置”，复制弹出二维码下方以“ss://”开头的字符串，保存或发送到手机能获取的地方；  
 d. 打开 Outline 应用，点击右上角的加号，粘贴上一步获取的字符串，添加服务器；  
